@@ -1,0 +1,440 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202004 will be lost/reset.
+# Last config file used to build this data file was /home3/astoer1/tmp/awstats/ssl/awstats.healthylifestylequiz.net.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2025                
+POS_TIME 2713                
+POS_VISITOR 7790                
+POS_DAY 8895                
+POS_DOMAIN 3423                
+POS_LOGIN 3704                
+POS_ROBOT 3859                
+POS_WORMS 4147                
+POS_EMAILSENDER 4278                
+POS_EMAILRECEIVER 4421                
+POS_SESSION 9223                
+POS_SIDER 9407                
+POS_FILETYPES 4556                
+POS_DOWNLOADS 4907                
+POS_OS 4955                
+POS_BROWSER 5114                
+POS_SCREENSIZE 5380                
+POS_UNKNOWNREFERER 5454                
+POS_UNKNOWNREFERERBROWSER 5878                
+POS_ORIGIN 6297                
+POS_SEREFERRALS 6439                
+POS_PAGEREFS 6583                
+POS_SEARCHWORDS 6761                
+POS_KEYWORDS 6913                
+POS_MISC 2375                
+POS_ERRORS 6972                
+POS_CLUSTER 3560                
+POS_SIDER_404 7158                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200420200828 2420 755583 20482587466644
+FirstTime 20200401041800
+LastTime 20200420200828
+LastUpdate 20200421001541 2420 0 2420 0 0
+TotalVisits 46                  
+TotalUnique 19                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 25                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 112 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 2 2 1522
+1 5 5 0 2 2 0
+2 0 0 0 0 0 0
+3 0 0 0 0 0 0
+4 4 8 211779 0 0 0
+5 1 1 308 0 0 0
+6 0 0 0 0 0 0
+7 67 409 2043286 3 3 3
+8 248 886 17923915 26 36 2021
+9 135 304 3210972 13 13 0
+10 3 3 27680 0 0 0
+11 53 525 4601110 2 6 75794
+12 666 3541 47152938 43 73 51240
+13 689 3277 20982761 26 46 46871
+14 256 569 1886659 10 10 23526
+15 310 1740 11216915 35 37 13883
+16 681 3563 14350966 60 68 412
+17 265 1285 3536479 15 15 15
+18 834 5169 20292922 25 43 110024
+19 878 5608 51780840 48 70 1863
+20 226 976 4287663 29 33 12
+21 4 4 24644 2 2 24644
+22 0 0 0 2 2 1522
+23 20 147 1248134 1 1 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 5326 27941 203736737
+in 14 74 1042926
+de 3 3 0
+ca 1 1 0
+cn 1 1 308
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+CFNetwork 3 1712 20200415082654 0
+bot[\s_+:,\.\;\/\\-] 2 75794 20200414112045 0
+[\s_+:,\.\;\/\\-]bot 2 24644 20200418215746 0
+unknown 1 26 20200402123842 1
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 14
+woff 90 5221424 0 0
+ttf 18 1237784 0 0
+xml 2 288 0 0
+gif 133 762983 0 0
+html 958 12750889 0 0
+js 12227 48328377 0 0
+php 3883 40128546 0 0
+jpg 1430 42348723 0 0
+jpeg 96 1409608 0 0
+css 7956 20445706 0 0
+svg 35 56485 0 0
+png 798 25193617 0 0
+woff2 114 5783926 0 0
+Unknown 280 1111615 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+Unknown 633 619
+win7 3 3
+ios_iphone 122 99
+win10 27259 4621
+winxp 1 1
+macosx12 1 1
+macosx 1 1
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 11
+Unknown 633 619
+firefox75.0 27181 4604
+chrome41.0.2224.3 1 1
+edge16 3 2
+chrome80.0.3987.163 74 14
+iphone 96 96
+chrome40.0.2214.85 3 3
+chrome40.0.2214.93 1 1
+chrome76.0.3809.132 1 1
+safari13.0.5 26 3
+firefox52.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 6
+Go-http-client/1.1 20200416213851
+Photon/1.0 20200415151242
+WordPress/5.4;_http://healthylifestylequiz.net 20200420200428
+WordPress/5.4;_https://healthylifestylequiz.net 20200420185051
+WordPress.com;_https://public-api.wordpress.com 20200415082601
+WordPress/14.5_(org.wordpress;_build:14.5.0.2;_iOS_13.3.1)_Alamofire/14.5 20200415083150
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Photon/1.0 20200415151242
+WordPress/14.5_(org.wordpress;_build:14.5.0.2;_iOS_13.3.1)_Alamofire/14.5 20200415083150
+WordPress/5.4;_https://healthylifestylequiz.net 20200420185051
+WordPress/5.4;_http://healthylifestylequiz.net 20200420200428
+WordPress.com;_https://public-api.wordpress.com 20200415082601
+Go-http-client/1.1 20200416213851
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 254 1253
+From1 0 0
+From2 0 0
+From3 6 6
+From4 5085 26761
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+https://dashboard.tawk.to 6 6
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 10
+403 13 5130
+500 6 4566
+406 2 452
+404 14 133940
+103 7 0
+409 2 166
+400 37 9
+301 5 325
+401 1 126
+302 255 106462
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 5
+/wp-content/plugins/loginpress-pro/img/loginpress-logo2.png 2 https://healthylifestylequiz.net/wp-admin/admin.php
+/ 2 https://healthylifestylequiz.net/
+/wp-admin/admin-ajax.php 6 https://healthylifestylequiz.net/wp-admin/customize.php
+/wp-admin/undefined 2 https://healthylifestylequiz.net/wp-admin/customize.php
+/home 2 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 25
+173.239.197.251 2925 17117 97975224 20200415203324
+73.191.77.143 1073 5438 59370765 20200420200828 20200420185117 /wp-admin/admin-ajax.php
+192.254.227.32 602 602 44549 20200420200428 20200420185002 /wp-cron.php
+104.238.32.16 455 3700 34569477 20200415133349
+73.172.209.167 106 129 1237662 20200417184001
+45.56.154.56 88 378 2049315 20200420195934 20200420190858 /wp-admin/admin-ajax.php
+173.239.197.10 63 548 4893262 20200420190458
+106.212.145.230 14 74 1042926 20200415131405
+192.0.102.35 6 6 23644 20200415082601
+54.189.52.88 2 2 24644 20200416213851
+40.117.213.15 2 3 57813 20200415125948
+138.246.253.15 2 2 0 20200417011942
+138.246.253.5 1 1 0 20200404071115
+44.234.40.69 1 1 308 20200403054134
+138.197.137.225 1 1 0 20200413010249
+44.234.41.106 1 1 308 20200401041800
+142.93.145.204 1 1 0 20200413010250
+209.239.122.230 1 1 308 20200402200413
+39.108.3.117 1 1 308 20200404232447
+192.0.96.186 0 2 3630 
+192.0.100.35 0 2 100880 
+192.0.99.59 0 2 2052154 
+192.0.102.94 0 2 513966 
+192.0.96.245 0 2 52686 
+192.0.101.142 0 4 766142 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20200401 1 1 308 1
+20200402 1 1 308 1
+20200403 1 1 308 1
+20200404 2 2 308 2
+20200407 1 1 0 1
+20200413 183 881 19809951 5
+20200414 1 1 0 1
+20200415 4506 23641 154000286 15
+20200416 239 965 10620307 6
+20200417 23 150 1247826 6
+20200418 1 1 0 1
+20200420 386 2375 19100369 6
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 5
+0s-30s 24
+1h+ 7
+5mn-15mn 5
+30mn-1h 5
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 112
+/wp-admin/admin-ajax.php 2303 1554090 3 7
+/wp-cron.php 587 0 14 15
+/ 379 5622511 21 14
+/wp-admin/admin.php 160 4155025 1 0
+/wp-admin/load-scripts.php 144 4285770 0 0
+/wp-admin/post.php 123 9220941 0 0
+/wp-admin/load-styles.php 97 7185833 0 0
+/xmlrpc.php 96 132058 1 1
+/index.php/register/ 91 908371 0 0
+/index.php/wp-json/wp/v2/users/me 88 46734 0 0
+/wp-admin/edit.php 86 3151893 0 0
+/index.php/login/ 82 771629 0 0
+/index.php/user/dleksen/ 68 965850 0 0
+/index.php/wp-json/wp/v2/pages 65 845357 0 0
+/wp-login.php 58 112227 1 1
+/wp-admin/plugins.php 50 1354274 0 0
+/wp-content/themes/hestia/assets/font-awesome/webfonts/fa-brands-400.woff2 48 2582443 1 0
+/index.php/account/ 48 795122 0 0
+/index.php/wp-json/wp/v2/users/ 45 30325 0 0
+/wp-admin/nav-menus.php 43 1656772 0 0
+/index.php/wp-json/wp/v2/settings/ 42 13104 0 0
+/wp-admin/users.php 41 913139 0 0
+/wp-admin/ 39 1058988 1 0
+/wp-content/themes/hestia/assets/font-awesome/webfonts/fa-solid-900.woff2 38 2159771 0 0
+/wp-admin/plugin-install.php 34 1037577 1 0
+/wp-admin/profile.php 7 210799 0 0
+/index.php/wp-json/themeisle-gutenberg-blocks/v1/save_post_meta/116 2 52 0 0
+/index.php/wp-json/wp/v2/pages/179/autosaves 1 5204 0 0
+/wp-admin/post-new.php 6 516698 0 0
+/wp-content/plugins/wpforms-lite/assets/fonts/fontawesome-webfont.woff2 6 462960 0 0
+/index.php/wp-json/wp/v2/pages/206 2 2135 0 0
+/wp-content/plugins/optinmonster/assets/fonts/archie.woff 8 22720 0 0
+/wp-json/wp/v2/media 7 39809 0 0
+/wp-content/plugins/themeisle-companion/obfx_modules/menu-icons/css/fonts/fontawesome-webfont.woff2 2 154320 0 0
+/index.php/wp-json/themeisle-gutenberg-blocks/v1/save_post_meta/173 6 156 0 0
+/index.php/wp-json/wp/v2/pages/160/autosaves 1 446 0 0
+/index.php/wp-json/ti-sites-lib/v1/initialize_sites_library 6 107718 0 0
+/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff 6 112944 0 0
+/index.php/user/test_dave2/ 2 28242 0 0
+/wp-admin/site-health.php 2 35220 0 0
+/wp-content/plugins/ultimate-member/assets/font/ionicons.woff 32 1810164 0 1
+/wp-admin/plugin-editor.php 2 49461 0 0
+/wp-content/plugins/themeisle-companion/obfx_modules/gutenberg-blocks/assets/fontawesome/webfonts/fa-brands-400.ttf 2 232560 0 0
+/index.php/wp-json/wp/v2/ 23 447451 0 0
+/index.php/wp-json/themeisle-gutenberg-blocks/v1/save_post_meta/250 4 104 0 0
+/wp-admin/user-new.php 4 72746 0 0
+/wp-content/plugins/easy-login-woocommerce/assets/fonts/Easy-Login.ttf 6 18504 0 0
+/index.php/wp-json/wp/v2/pages/8 4 3778 0 0
+/index.php/privacy-policy/ 8 75362 0 0
+/index.php/user/test_dave/ 2 28172 0 0
+/wp-admin/options-general.php 1 43117 0 0
+/wp-admin/themes.php 9 273170 0 0
+/wp-admin/user-edit.php 2 42996 0 0
+/index.php/2020/04/15/fitness1/ 4 55584 0 0
+/index.php/2020/04/15/nutrition2/ 2 30936 0 0
+/wp-admin/index.php 5 134318 0 0
+/index.php/user/astoer1/ 14 199728 0 0
+/wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff 4 4224 0 0
+/wp-content/plugins/themeisle-companion/obfx_modules/gutenberg-blocks/assets/fontawesome/webfonts/fa-solid-900.ttf 2 336352 0 0
+/wp-admin/update-core.php 1 14301 0 0
+/index.php/category/general-health/ 2 25992 0 0
+/index.php/wp-json/themeisle-gutenberg-blocks/v1/save_post_meta/169 16 416 0 0
+/index.php/wp-json/wp/v2/pages/250 4 5159 0 0
+/index.php/wp-json/wp/v2/types/post 1 794 0 0
+/index.php/quiz/ 30 562888 0 0
+/index.php/wp-json/themeisle-gutenberg-blocks/v1/save_post_meta/171 10 260 0 0
+/wp-content/themes/hestia/assets/font-awesome/webfonts/fa-solid-900.woff 4 392080 0 0
+/index.php/2020/04/15/medicine1/ 2 31562 0 0
+/index.php/2020/04/15/quiz3/ 6 79776 0 1
+/wp-content/plugins/themeisle-companion/obfx_modules/gutenberg-blocks/assets/fontawesome/webfonts/fa-brands-400.woff2 2 128288 0 0
+/index.php/wp-json/wp/v2/pages/173 3 2129 0 0
+/index.php/sample-page/ 2 21832 0 0
+/index.php/user/stats_user/ 4 56498 0 0
+/index.php/wp-json/wp/v2/pages/171 5 5962 0 0
+/index.php/wp-json/wp/v2/pages/169/autosaves 1 3622 0 0
+/index.php/wp-json/themeisle-gutenberg-blocks/v1/save_post_meta/8 7 182 0 0
+/wp-content/plugins/themeisle-companion/obfx_modules/gutenberg-blocks/assets/fontawesome/webfonts/fa-solid-900.woff 2 160968 0 0
+/wp-admin/customize.php 18 3813664 1 1
+/index.php/wp-json/wp/v2/blocks 12 24 0 0
+/wp-content/plugins/themeisle-companion/obfx_modules/gutenberg-blocks/assets/fontawesome/webfonts/fa-solid-900.woff2 2 124944 0 0
+/index.php/wp-json/themeisle-gutenberg-blocks/v1/save_post_meta/206 4 104 0 0
+/wp-content/plugins/loginpress/loginpressfonts/loginpress.ttf 4 7840 0 0
+/index.php/2020/04/15/nutrition1/ 2 30970 0 0
+/index.php/wpforms-preview/ 2 18818 0 0
+/wp-content/themes/hestia/assets/font-awesome/webfonts/fa-regular-400.woff2 16 171200 0 0
+/index.php/2020/04/15/fitness2/ 4 49618 0 0
+/index.php/wp-json/wp/v2/taxonomies/post_tag 4 2512 0 0
+/index.php/blog/ 12 144764 0 0
+/wp-admin/theme-editor.php 2 161198 0 0
+/wp-content/plugins/themeisle-companion/obfx_modules/gutenberg-blocks/assets/fontawesome/webfonts/fa-brands-400.woff 2 149856 0 0
+/wp-content/plugins/jetpack/wpml-config.xml 2 288 0 1
+/index.php/2020/04/15/medicine2/ 2 27486 0 0
+/index.php/2020/04/15/fitness2-2/ 2 27458 1 0
+/index.php/wp-json/wp/v2/pages/116 2 2197 0 0
+/wp-content/themes/hestia/assets/font-awesome/webfonts/fa-solid-900.ttf 2 383672 0 0
+/index.php/2020/04/15/quiz/ 4 52100 0 0
+/wp-content/themes/hestia/assets/font-awesome/webfonts/fa-brands-400.ttf 2 258856 0 0
+/index.php/account/privacy/ 2 30408 0 0
+/index.php/wp-json/themeisle-gutenberg-blocks/v1/fetch_templates 1 663 0 0
+/wp-admin/async-upload.php 2 1259 0 0
+/index.php/category/fitness/ 9 219668 0 0
+/index.php/2020/04/15/quiz2/ 4 55924 0 0
+/index.php/wp-json/wp/v2/pages/8/autosaves 3 1844 0 0
+/wp-content/plugins/ultimate-member/assets/font/fontawesome-webfont.woff 30 2393180 0 0
+/index.php/about/ 2 19224 0 0
+/index.php/wp-json/wp/v2/pages/169 8 30992 0 0
+/index.php/2020/04/20/quizmaker/ 6 120316 0 0
+/wp-content/themes/hestia/assets/font-awesome/webfonts/fa-brands-400.woff 2 175288 0 0
+/index.php/account/general/ 2 30228 0 0
+/index.php/wp-json/wp/v2/types/wp_block 12 2796 0 0
+/index.php/statistics-downloading/ 10 113984 0 1
+/index.php/wp-json/wp/v2/pages/250/autosaves 1 466 0 0
+END_SIDER
