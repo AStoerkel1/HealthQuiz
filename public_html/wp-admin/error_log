@@ -39,3 +39,12 @@ Stack trace:
 #3 /home3/astoer1/public_html/wp-includes/class-wp-hook.php(285): Action_Scheduler\Migration\Controller->schedule_migration()
 #4 /home3/astoer1/public_html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
 #5 /home3/astoer1/p in /home3/astoer1/public_html/wp-content/plugins/wpforms-lite/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler.php on line 17
+[26-Apr-2020 16:05:08 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE quiz_id = 1' at line 3 for query SELECT MIN(DATE(`end_date`)) AS `min_date`, MAX(DATE(`end_date`)) AS `max_date`
+                FROM wp_aysquiz_reports
+                WHERE YEAR(DATE(`end_date`)) > 2000 WHERE quiz_id = 1 made by do_action('wp_ajax_get_current_quiz_statistic'), WP_Hook->do_action, WP_Hook->apply_filters, Quiz_Maker_Admin->get_current_quiz_statistic, Results_List_Table::get_results_dates
+[26-Apr-2020 16:05:19 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE quiz_id = 2' at line 3 for query SELECT MIN(DATE(`end_date`)) AS `min_date`, MAX(DATE(`end_date`)) AS `max_date`
+                FROM wp_aysquiz_reports
+                WHERE YEAR(DATE(`end_date`)) > 2000 WHERE quiz_id = 2 made by do_action('wp_ajax_get_current_quiz_statistic'), WP_Hook->do_action, WP_Hook->apply_filters, Quiz_Maker_Admin->get_current_quiz_statistic, Results_List_Table::get_results_dates
+[26-Apr-2020 16:14:31 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE quiz_id = 3' at line 3 for query SELECT MIN(DATE(`end_date`)) AS `min_date`, MAX(DATE(`end_date`)) AS `max_date`
+                FROM wp_aysquiz_reports
+                WHERE YEAR(DATE(`end_date`)) > 2000 WHERE quiz_id = 3 made by do_action('wp_ajax_get_current_quiz_statistic'), WP_Hook->do_action, WP_Hook->apply_filters, Quiz_Maker_Admin->get_current_quiz_statistic, Results_List_Table::get_results_dates

@@ -7,3 +7,12 @@ JSON::XS is missing the no_set_utf8 flag at /usr/local/cpanel/Cpanel/JSON.pm lin
 JSON::XS is missing the no_set_utf8 flag at /usr/local/cpanel/Cpanel/JSON.pm line 172.
 JSON::XS is missing the no_set_utf8 flag at /usr/local/cpanel/Cpanel/JSON.pm line 172.
 JSON::XS is missing the no_set_utf8 flag at /usr/local/cpanel/Cpanel/JSON.pm line 172.
+JSON::XS is missing the no_set_utf8 flag at /usr/local/cpanel/Cpanel/JSON.pm line 172.
+JSON::XS is missing the no_set_utf8 flag at /usr/local/cpanel/Cpanel/JSON.pm line 172.
+JSON::XS is missing the no_set_utf8 flag at /usr/local/cpanel/Cpanel/JSON.pm line 172.
+JSON::XS is missing the no_set_utf8 flag at /usr/local/cpanel/Cpanel/JSON.pm line 172.
+JSON::XS is missing the no_set_utf8 flag at /usr/local/cpanel/Cpanel/JSON.pm line 172.
+JSON::XS is missing the no_set_utf8 flag at /usr/local/cpanel/Cpanel/JSON.pm line 172.
+Use of uninitialized value $status in pattern match (m//) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 44.
+Use of uninitialized value $response{"status"} in numeric eq (==) at /usr/local/cpanel/Cpanel/QuickInstall/HTTP.pm line 45.
+JSON::XS is missing the no_set_utf8 flag at /usr/local/cpanel/Cpanel/JSON.pm line 172.

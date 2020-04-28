@@ -1,7 +1,7 @@
-# Webalizer V2.23-08 Incremental Data - 04/20/2020 22:06:16
-2020 4 20 22 6 16
-22314 19553 117 712 83 78 302221218 2314 224 0
-13 5 2339 1 20
+# Webalizer V2.23-08 Incremental Data - 04/28/2020 01:05:49
+2020 4 28 1 5 49
+39064 31642 157 783 103 101 511183875 3257 324 0
+3 3 4883 1 28
 47 20 34899 10 20 13
 22 18 13541 13 15 12
 16 12 10507 9 11 8
@@ -22,665 +22,727 @@
 818 720 5564960 23 24 6
 768 658 3605928 17 52 20
 5291 4637 64206761 13 427 20
+488 358 9586236 18 91 16
+441 261 6098060 12 51 14
+1330 1015 21961206 17 88 20
+281 196 4218783 6 14 5
+3383 2908 40425435 11 94 7
+9989 6739 119158332 12 567 27
+832 606 7401729 12 34 9
+6 6 112876 3 4 2
 0 0 0 0 0 0
 0 0 0 0 0 0
 0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-0 0 0 0 0 0
-595 595 4740215 15
-613 403 400758 14
-492 407 684063 7
-238 216 626125 8
-37 32 206424 24
-283 208 6369547 132
-25 23 131284 9
-298 256 4185338 14
-389 286 11116058 35
-227 162 4265745 11
-2179 1816 29632162 121
-675 634 9672991 219
-2387 2251 40150525 359
-2427 2378 38296449 352
-1626 1052 18680065 203
-1606 1553 25249544 66
-436 380 973466 22
-477 186 2437082 45
-785 541 10183235 51
-4751 4432 86614965 401
-656 644 5099889 176
-312 312 83821 7
-463 457 1307188 16
-337 329 1114279 7
+694 616 4885751 23
+625 412 542889 18
+520 419 1733371 25
+349 326 1453637 16
+190 185 3306643 36
+656 536 15569633 213
+31 29 249236 13
+334 285 5161566 26
+393 289 11141370 37
+2513 2156 34257679 77
+4150 3284 52598724 178
+801 757 10573075 219
+2459 2314 41136196 379
+2934 2746 44001257 370
+2231 1375 20788497 254
+1619 1566 25250250 66
+965 636 7956506 50
+3039 1945 24568149 138
+5927 4221 80148392 297
+6779 5744 116862446 599
+703 678 5177995 176
+321 318 202083 13
+468 462 1331768 18
+363 343 2286762 16
 0
 0
 0
-19553
+31642
 0
 0
-0
-40
-0
-4
-0
-53
-298
-0
-2136
-0
-0
-4
-1
-0
-42
-128
 0
 50
 0
+14
 0
-1
+88
+512
 0
-0
-0
-0
-0
-0
+6411
 0
 0
-4
+8
+2
+0
+51
+186
+0
+83
 0
 0
+5
+0
+0
+0
+0
+0
+0
+0
+0
+5
+0
+7
 0
 0
 0
 # -urls- 
 /wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue/js/chunk-common.js
-0 30 0 199734 0 0
+0 30 7022359143661842744 199734 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/js/um-admin-modal.js
-0 14 0 57348 0 0
+0 36 1587097805 95580 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/js/um-admin-ajax.js
-0 14 0 6768 0 0
+0 36 3832845857380630528 10152 0 0
 /wp-admin/theme-install.php
-0 3 0 68528 0 0
+0 3 109 68528 0 0
+/phpMyAdmin/scripts/setup.php
+0 1 8678280833089693044 732 0 0
 /wp-content/themes/twentytwenty/print.css
-0 2 8026309974183470896 2022 0 0
+0 2 4049067255087853673 2022 0 0
 /wp-content/plugins/quiz-maker/admin/images/avatars/business_avatar.png
-0 2 0 65702 0 0
+0 2 3833744356892291329 65702 0 0
 /wp-content/themes/hestia/gutenberg/blocks/clients/screenshot.png
-0 4 3689628069321376000 132884 0 0
+0 4 0 132884 0 0
+/wp-content/plugins/wpforms-lite/lite/assets/css/admin.min.css
+0 4 0 4688 0 0
 /wp-content/plugins/quiz-maker/admin/js/charts.js
-0 4 9465648 319544 0 0
+0 12 0 958632 0 0
 /wp-content/plugins/quiz-cat/includes/editor/editor.min.css
-0 14 7493989779944505344 29890 0 0
+0 16 0 34160 0 0
 /wp-content/plugins/quiz-maker/public/images/wrong-style-3.png
-0 8 0 7848 0 0
+0 14 0 13734 0 0
 /wp-admin/images/loading.gif
-0 1 9470752 1372 0 0
+0 1 0 1372 0 0
 /wp-content/plugins/quiz-maker/admin/images/integrations/mailchimp_logo.png
-0 8 9454800 89328 0 0
+0 16 0 178656 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/js/um-admin-forms.js
-0 14 0 112920 0 0
+0 36 0 188200 0 0
 /wp-content/plugins/loginpress/img/thumbnail/default-10.png
 0 4 0 40648 0 0
-/wp-content/plugins/quiz-maker/public/css/theme_elegant_light.css
-0 96 0 107904 0 0
 /wp-includes/js/dist/vendor/wp-polyfill.min.js
-0 66 0 2030602 0 0
+0 151 0 3071702 0 0
+/wp-content/plugins/quiz-maker/public/css/theme_elegant_light.css
+0 544 0 611456 0 0
 /wp-content/plugins/quiz-maker/admin/css/animations.css
-0 4 9461664 2440 0 0
+0 22 0 13420 0 0
 /wp-includes/js/tinymce/plugins/wptextpattern/plugin.min.js
-0 22 0 27414 0 0
-/wp-content/plugins/quiz-maker/admin/images/live-preview/416x416-2.jpg
-0 4 0 90984 0 0
+0 34 0 39598 0 0
 /wp-content/plugins/jetpack/_inc/build/jetpack-connection-banner.min.js
 0 4 0 2408 0 0
+/wp-content/plugins/quiz-maker/admin/images/live-preview/416x416-2.jpg
+0 10 0 227460 0 0
 /wp-content/plugins/wpforms-lite/assets/js/mailcheck.min.js
-0 80 0 102856 0 0
+0 131 0 157756 0 0
 /wp-content/plugins/quiz-maker/public/images/wrong.png
-0 8 9452848 4296 0 0
+0 14 0 7518 0 0
 /wp-includes/js/dist/date.min.js
-0 14 0 545940 0 0
+0 22 0 818910 0 0
 /wp-admin/js/dashboard.min.js
-0 15 0 33384 0 0
+0 22 0 46224 0 0
 /wp-admin/widgets.php
 0 2 0 141128 0 0
 /wp-content/uploads/2020/04/37C38A16-969D-49D9-A80D-613921141428_1_201_a-e1587429206136-300x273.jpeg
-0 2 9469792 25070 0 0
+0 4 0 50140 0 0
 /wp-content/plugins/quiz-maker/admin/images/integrations/slack_logo.png
-0 8 0 319864 0 0
+0 16 0 639728 0 0
 /wp-content/plugins/quiz-maker/public/images/wrong-style-8.png
-0 4 0 5820 0 0
+0 10 0 14550 0 0
 /wp-content/plugins/loginpress/img/thumbnail/default-4.png
 0 6 0 24942 0 0
 /wp-content/themes/docent/css/fontawesome.min.css
 0 2 0 24334 0 0
+/wp-admin/themes.php
+0 21 0 539110 0 0
 /wp-content/themes/docent/fonts/fa-solid-900.woff2
 0 4 0 301760 0 0
-/wp-admin/themes.php
-0 16 0 448802 0 0
+/wp-content/plugins/wp-meta-and-date-remover/include/fonts/roboto/Roboto-Regular.woff2
+0 2 0 129664 0 0
 /wp-admin/js/widgets/media-gallery-widget.min.js
-0 9 0 10760 0 0
+0 14 0 16140 0 0
 /wp-content/plugins/akismet/_inc/akismet.js
 0 14 0 46620 0 0
 /wp-content/plugins/ultimate-member/assets/js/simplebar.js
-0 14 0 600348 0 0
+0 36 0 1000580 0 0
+/wp-content/plugins/wpforms-lite/assets/js/admin.min.js
+0 4 0 36896 0 0
 /wp-admin/js/editor-expand.min.js
-0 5 0 26290 0 0
+0 7 0 36806 0 0
 /wp-includes/js/tinymce/langs/wp-langs-en.js
-0 8 9451264 47648 0 0
+0 20 0 95296 0 0
 /wp-content/plugins/loginpress/js/controls/loginpress-range-control.js
 0 6 0 2346 0 0
 /wp-admin/update-core.php
-0 3 0 55342 0 0
+0 6 0 108680 0 0
 /wp-includes/js/codemirror/codemirror.min.css
-0 18 0 95454 0 0
+0 28 0 137878 0 0
+/wp-content/plugins/wpforms-lite/assets/css/jquery.minicolors.css
+0 4 0 5956 0 0
 /wp-admin/css/l10n.min.css
-0 11 0 7755 0 0
+0 15 0 10575 0 0
 /wp-content/uploads/2020/04/IMG_3615-150x150.jpg
 0 2 0 11080 0 0
 /wp-content/plugins/ultimate-member/assets/font/fontawesome-webfont.woff
-0 12 0 1176288 0 0
+0 38 0 2940720 0 0
 /wp-includes/js/tinymce/plugins/paste/plugin.min.js
-0 22 0 238554 0 0
+0 34 0 344578 0 0
 /wp-content/uploads/2020/04/contact.jpg
-0 12 0 1629804 0 0
+0 16 0 2173072 0 0
 /wp-includes/js/customize-preview-nav-menus.min.js
-0 18 0 31696 0 0
+0 24 0 43582 0 0
 /wp-content/plugins/quiz-maker/admin/images/loaders/tail-spin.svg
-0 8 0 7854 0 0
+0 20 0 20944 0 0
 /wp-admin/js/customize-controls.min.js
-0 10 0 376092 0 0
+0 15 0 543244 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/providers/php.svg
+0 2 0 2520 0 0
 /wp-content/plugins/loginpress/img/thumbnail/gallery-img-9.jpg
 0 4 0 35304 0 0
 /wp-content/plugins/themeisle-companion/obfx_modules/companion-legacy/assets/css/hestia/clients-bar.css
-0 69 0 16214 0 0
+0 115 0 20214 0 0
 /wp-content/plugins/themeisle-companion/obfx_modules/gutenberg-blocks/assets/fontawesome/webfonts/fa-solid-900.woff2
 0 4 0 249888 0 0
 /wp-includes/js/codemirror/htmlhint.js
-0 18 0 112336 0 0
+0 28 0 168504 0 0
+/wp-admin/options-reading.php
+0 2 0 34009 0 0
 /wp-content/plugins/quiz-cat/assets/icon.png
-0 16 0 11968 0 0
+0 22 0 16456 0 0
 /wp-content/themes/hestia/assets/font-awesome/css/v4-shims.min.css
-0 78 0 344914 0 0
+0 130 0 433214 0 0
 /wp-includes/js/tinymce/skins/lightgray/fonts/tinymce.woff
-0 12 0 225888 0 0
+0 20 0 376480 0 0
 /wp-content/plugins/quiz-maker/admin/css/quiz-maker-admin.css
-0 230 1587259893 3942374 0 0
+0 678 0 11893926 0 0
 /wp-includes/js/customize-preview.min.js
-0 18 0 65712 0 0
+0 24 0 90354 0 0
 /wp-admin/upload.php
 0 1 0 51782 0 0
+/wp-content/plugins/quiz-cat/includes/quiz/quiz.min.js
+0 48 0 194970 0 0
 /wp-content/themes/hestia/vendor/codeinwp/ti-about-page/assets/img/logo.png
 0 4 0 192304 0 0
-/wp-content/plugins/quiz-cat/includes/quiz/quiz.min.js
-0 28 0 129980 0 0
 /wp-content/plugins/quiz-maker/admin/images/themes/modern_light.PNG
 0 6 0 65544 0 0
 /wp-content/plugins/wpforms-lite/assets/js/jquery.validate.min.js
-0 83 0 669656 0 0
+0 136 0 1048080 0 0
 /wp-includes/css/dist/block-library/theme.min.css
 0 2 0 1370 0 0
 /wp-content/plugins/jetpack/css/jetpack-admin.min.css
 0 2 0 12748 0 0
 /wp-content/plugins/themeisle-companion/obfx_modules/companion-legacy/inc/hestia/inc/img/clients5.png
-0 16 0 47392 0 0
+0 20 0 59240 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/logo.svg
+0 2 0 24508 0 0
 /wp-content/plugins/loginpress/css/controls/loginpress-group-control.css
 0 6 0 5322 0 0
 /wp-content/plugins/mobile-login-woocommerce/assets/css/xoo-ml-style.css
 0 2 0 2212 0 0
+/wp-content/plugins/wpforms-lite/assets/images/logo.png
+0 4 0 30672 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/js/um-admin-builder.js
-0 14 0 5748 0 0
+0 38 0 9580 0 0
 /wp-content/themes/hestia/assets/js/admin/buttons-customizer-preview.js
-0 18 0 19824 0 0
+0 24 0 27258 0 0
+/wp-content/plugins/wpforms-lite/assets/css/font-awesome.min.css
+0 4 0 28456 0 0
 /wp-content/plugins/quiz-maker/admin/js/partials/quiz-maker-admin-information-form.js
-0 4 9463952 304 0 0
+0 16 0 1064 0 0
 /wp-content/plugins/quiz-maker/public/images/wrong-style-7.png
-0 4 0 2952 0 0
+0 10 0 7380 0 0
 /wp-includes/js/thickbox/thickbox.js
-0 32 0 87570 0 0
+0 52 0 136220 0 0
 /wp-content/plugins/loginpress/js/customizer.js
 0 6 0 6192 0 0
 /wp-content/themes/hestia/inc/customizer/controls/custom-controls/dimensions/dimensions.js
-0 18 0 17904 0 0
+0 28 0 26856 0 0
 /wp-content/plugins/quiz-maker/admin/css/jquery-ui-timepicker-addon.css
-0 8 0 4440 0 0
+0 20 0 11100 0 0
 /wp-includes/css/buttons.min.css
-0 24 0 41184 0 0
+0 32 0 54912 0 0
 /wp-content/plugins/optinmonster/assets/css/images/matthewwoodward.png
 0 2 0 143960 0 0
 /wp-content/plugins/ultimate-member/assets/css/um-fileupload.css
-0 32 0 39546 0 0
+0 83 0 63591 0 0
+/wp-content/plugins/wp-meta-and-date-remover/include/materialize/materialize.min.css
+0 2 0 59182 0 0
 /wp-content/plugins/quiz-maker/admin/images/features/pro4-compressor.png
-0 2 9461104 109694 0 0
+0 2 0 109694 0 0
 /wp-content/plugins/quiz-maker/admin/js/core.js
-0 4 9465792 1018804 0 0
+0 12 0 3056412 0 0
 /wp-content/plugins/ultimate-member/assets/css/um-styles.css
-0 38 0 246494 0 0
+0 92 0 453786 0 0
 /wp-content/plugins/ultimate-member/assets/css/pickadate/default.css
-0 36 0 52132 0 0
+0 89 0 78428 0 0
 /wp-includes/js/imgareaselect/border-anim-h.gif
 0 6 0 1068 0 0
 /wp-content/plugins/ultimate-member/assets/css/um-responsive.css
-0 40 0 196340 0 0
+0 88 0 252392 0 0
 /wp-content/plugins/themeisle-companion/obfx_modules/companion-legacy/inc/hestia/inc/img/clients3.png
-0 16 0 43664 0 0
+0 20 0 54580 0 0
 /wp-content/uploads/2020/04/cropped-LogoMakr_20KQqI-1.png
 0 4 0 201760 0 0
 /wp-content/plugins/quiz-maker/public/images/correct-style-10.png
-0 4 0 6860 0 0
+0 10 0 17150 0 0
 /wp-admin/js/editor.min.js
-0 13 0 49833 0 0
+0 26 0 77518 0 0
 /wp-includes/js/jquery/ui/slider.min.js
-0 16 0 50862 0 0
+0 40 0 87192 0 0
 /wp-content/plugins/optinmonster/assets/css/images/featured-logos.png
 0 2 0 75474 0 0
 /wp-admin/js/tags-box.min.js
-0 11 0 11384 0 0
+0 15 0 15653 0 0
+/wp-includes/css/customize-preview.min.css
+0 24 0 20952 0 0
 /wp-includes/js/tinymce/skins/lightgray/content.inline.min.css
 0 10 0 13120 0 0
-/wp-includes/css/customize-preview.min.css
-0 16 0 13968 0 0
 /wp-content/plugins/loginpress/img/bg.jpg
 0 6 0 657558 0 0
 /wp-content/themes/hestia/vendor/codeinwp/ti-about-page/js/ti_notice_manager_scripts.js
 0 1 0 337 0 0
 /wp-includes/js/dist/media-utils.min.js
-0 14 0 70632 0 0
+0 22 0 105948 0 0
 /wp-includes/js/dist/notices.min.js
-0 14 0 23628 0 0
+0 22 0 35442 0 0
 /wp-content/plugins/quiz-maker/admin/images/themes/elegant_light.JPG
-0 8 0 191286 0 0
+0 14 0 343314 0 0
 /wp-content/plugins/ultimate-member/assets/js/um-crop.min.js
-0 50 0 326092 0 0
+0 121 0 495575 0 0
 /wp-content/plugins/loginpress/img/promo/recaptcha_option_promo.png
 0 6 0 31518 0 0
 /wp-content/plugins/themeisle-companion//images/orbit-fox.png
-0 4 0 22880 0 0
+0 6 0 34320 0 0
 /wp-includes/js/thickbox/thickbox.css
-0 26 0 27066 0 0
+0 46 0 43722 0 0
+/wp-content/plugins/wpforms-lite/assets/js/jquery.jquery-confirm.min.js
+0 4 0 35768 0 0
 /wp-includes/js/shortcode.min.js
-0 34 0 18848 0 0
+0 50 0 28272 0 0
+/wp-content/plugins/wp-meta-and-date-remover/include/codemirror/cm_init.js
+0 2 0 0 0 0
 /wp-content/plugins/quiz-maker/public/images/traditional-checkbox-no.jpg
-0 4 9465136 2060 0 0
+0 6 0 3090 0 0
 /wp-includes/js/wp-lists.min.js
-0 34 0 57582 0 0
+0 50 0 95970 0 0
 /wp-includes/js/dist/viewport.min.js
-0 16 0 27706 0 0
+0 24 0 39580 0 0
 /wp-content/themes/hestia/screenshot.png
-0 6 0 2060220 0 0
+0 8 0 2746960 0 0
+/wp-content/uploads/2020/04/cropped-LogoMakr_20KQqI-4-192x192.png
+0 56 0 1020040 0 0
 /wp-content/plugins/quiz-maker/public/css/theme_rect_dark.css
-0 96 0 129408 0 0
+0 544 0 733312 0 0
 /wp-content/plugins/themeisle-companion/vendor/codeinwp/gutenberg-blocks/assets/glide/glide.min.js
-0 12 0 105324 0 0
+0 20 0 157986 0 0
 /wp-content/plugins/quiz-maker/admin/js/CSVExport.js
-0 4 9462560 8992 0 0
+0 16 0 31472 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/css/um-admin-columns.css
-0 12 0 8040 0 0
+0 22 0 12060 0 0
 /wp-admin/images/arrows-2x.png
-0 4 0 3452 0 0
+0 5 0 4315 0 0
 /wp-includes/js/jquery/jquery.query.js
-0 30 0 44928 0 0
+0 44 0 62208 0 0
 /wp-includes/js/dist/api-fetch.min.js
-0 14 0 58212 0 0
+0 22 0 87318 0 0
 /wp-content/plugins/loginpress/css/controls/loginpress-radio-button-control.css
 0 6 0 8304 0 0
 /wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue/css/chunk-vendors.css
-0 8 0 52576 0 0
+0 8 11421548673640968494 52576 0 0
 /wp-content/plugins/loginpress/img/thumbnail/default-12.png
-0 4 0 64164 0 0
+0 4 3615605682166593377 64164 0 0
+/wp-content/uploads/2020/04/cropped-LogoMakr_20KQqI-4.png
+0 10 7146777680424561767 557840 0 0
 /wp-content/plugins/quiz-maker/public/css/animations.css
-0 6 0 3660 0 0
-/wp-admin/load-scripts.php
-0 131 0 5446783 0 0
+0 56 4121130308130516528 32548 0 0
 /wp-admin/plugin-install.php
-0 20 0 583764 0 0
+0 28 0 800916 0 0
+/wp-admin/load-scripts.php
+0 202 0 8493862 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/providers/sendgrid.svg
+0 2 0 5402 0 0
 /wp-admin/images/spinner.gif
-0 9 0 32904 0 0
+0 13 0 43872 0 0
 /wp-includes/js/jquery/ui/sortable.min.js
-0 34 0 132256 0 0
+0 60 0 214916 0 0
 /wp-content/plugins/quiz-maker/admin/images/features/pro2-compressor.png
-0 2 9460928 107480 0 0
+0 2 0 107480 0 0
 /wp-includes/images/spinner-2x.gif
 0 4 0 30144 0 0
 /wp-content/plugins/quiz-maker/public/images/wrong-style-4.png
-0 8 0 7016 0 0
+0 14 0 12278 0 0
 /wp-content/themes/hestia/gutenberg/blocks/about/screenshot.png
 0 4 0 566388 0 0
 /wp-includes/js/dist/i18n.min.js
-0 66 0 202834 0 0
+0 152 0 322232 0 0
 /wp-content/plugins/quiz-maker/admin/js/popper.min.js
-0 10 9407728 85794 0 0
+0 22 0 171594 0 0
 /wp-content/plugins/ultimate-member/assets/js/um-profile.min.js
-0 42 0 40160 0 0
+0 116 0 66796 0 0
 /wp-content/themes/hestia/vendor/codeinwp/ti-about-page/js/plugin-install.js
 0 2 0 1021 0 0
 /wp-content/plugins/loginpress/img/thumbnail/default-17.png
 0 4 0 35916 0 0
 /wp-admin/plugins.php
-0 33 0 1042470 0 0
+0 62 0 1869620 0 0
 /wp-admin/js/plugin-install.min.js
-0 16 0 10640 0 0
+0 26 0 14896 0 0
 /wp-content/uploads/2020/04/37C38A16-969D-49D9-A80D-613921141428_1_201_a-214x300.jpeg
-0 2 9469440 24044 0 0
+0 2 0 24044 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/css/um-admin-settings.css
-0 12 0 17016 0 0
+0 22 0 25524 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/js/um-admin-field.js
-0 14 0 12972 0 0
+0 36 0 19458 0 0
 /wp-content/themes/twentytwenty/assets/js/
 0 2 0 17336 0 0
 /wp-content/themes/hestia/vendor/codeinwp/ti-onboarding/assets/js/bundle.js
 0 2 0 190980 0 0
 /wp-content/themes/hestia/inc/customizer/controls/custom-controls/multi-select/script.js
-0 18 0 5104 0 0
+0 28 0 7656 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/providers/google.svg
+0 2 0 4116 0 0
 /wp-content/plugins/jetpack/_inc/build/style.min.css
 0 2 0 24354 0 0
 /wp-content/plugins/easy-login-woocommerce/library/smooth-scrollbar/smooth-scrollbar.js
 0 8 0 151976 0 0
 /wp-admin/js/post.min.js
-0 11 0 57368 0 0
+0 15 0 78881 0 0
 /wp-content/plugins/quiz-maker/admin/images/themes/rect_light.JPG
-0 8 0 142560 0 0
+0 14 0 249480 0 0
 /wp-includes/js/customize-preview-widgets.min.js
-0 18 0 49232 0 0
+0 24 0 67694 0 0
 /wp-content/plugins/mycred-learndash/inc//assets/css/mycred-leaderboard-admin-style.css
 0 2 0 3912 0 0
 /wp-admin/post.php
-0 157 0 11389884 0 0
+0 200 0 15088812 0 0
 /wp-content/plugins/optinmonster/assets/css/images/dashboard-icon.png
 0 16 0 311648 0 0
 /wp-admin/js/widgets/media-audio-widget.min.js
-0 9 0 5616 0 0
+0 14 0 8424 0 0
 /wp-includes/js/underscore.min.js
-0 68 0 328318 0 0
+0 153 0 508631 0 0
 /wp-content/plugins/wpforms-lite/assets/js/components/admin/gutenberg/formselector.min.js
-0 14 0 20104 0 0
+0 22 0 28720 0 0
+/wp-admin/css/forms.min.css
+0 16 0 132016 0 0
 /wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js
 0 2 0 834 0 0
-/wp-admin/css/forms.min.css
-0 11 0 90761 0 0
 /wp-content/plugins/quiz-maker/admin/images/ays_pro.png
-0 8 9450640 152928 0 0
+0 16 0 305856 0 0
 /wp-content/themes/hestia/inc/customizer/controls/custom-controls/subcontrols-allowing/script.js
-0 18 0 18688 0 0
+0 28 0 28032 0 0
 /wp-includes/js/tinymce/plugins/image/plugin.min.js
-0 8 0 51096 0 0
+0 16 0 89418 0 0
 /wp-admin/js/widgets/media-image-widget.min.js
-0 9 0 7088 0 0
+0 14 0 10632 0 0
+/wp-content/plugins/wpforms-lite/assets/js/choices.min.js
+0 4 0 105320 0 0
 /wp-content/plugins/themeisle-companion/core/assets/js/orbit-fox-admin.js
-0 8 0 18440 0 0
+0 12 0 27660 0 0
 /wp-includes/js/dist/wordcount.min.js
-0 16 0 17472 0 0
+0 24 0 24960 0 0
 /wp-content/plugins/quiz-maker/public/js/theme_rect_dark.js
-0 4 0 3444 0 0
+0 16 0 12054 0 0
 /wp-content/plugins/loginpress/img/thumbnail/default-13.png
 0 4 0 59360 0 0
 /wp-includes/js/dist/blocks.min.js
-0 14 0 737232 0 0
+0 22 0 1105848 0 0
 /wp-content/plugins/quiz-maker//quiz/quiz-maker-block.css
-0 3 0 903 0 0
+0 6 0 1806 0 0
 /wp-includes/wlwmanifest.xml
-0 4 0 4180 0 0
-/wp-content/plugins/quiz-maker/admin/js/wp-color-picker-alpha.min.js
-0 10 0 30620 0 0
+0 6 0 6270 0 0
 /wp-content/themes/twentytwenty/style.css
 0 2 0 70272 0 0
+/wp-content/plugins/quiz-maker/admin/js/wp-color-picker-alpha.min.js
+0 22 0 61240 0 0
 /wp-content/themes/hestia//vendor/codeinwp/ti-onboarding/assets/js/bundle.js
-0 2 3330469314568663089 190980 0 0
-/wp-content/plugins/quiz-maker/public/js/rating.min.js
-0 8 9458608 17928 0 0
+0 2 0 190980 0 0
 /wp-includes/js/tinymce/skins/wordpress/wp-content.css
-0 18 3977578069990899968 54648 0 0
+0 24 0 72864 0 0
+/wp-content/plugins/quiz-maker/public/js/rating.min.js
+0 60 0 70718 0 0
 /wp-content/plugins/mycred-learndash/inc/assets/css/mycred-leaderboard-admin-style.css
-0 2 1836016430 3912 0 0
-/wp-includes/css/editor.min.css
-0 22 8299624159650591533 187572 0 0
+0 2 0 3912 0 0
 /wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/admin/assets/css/xoo-aff-admin-style.css
-0 2 7311156825135870581 5810 0 0
+0 2 0 5810 0 0
+/wp-includes/css/editor.min.css
+0 32 0 255780 0 0
 /wp-content/plugins/quiz-maker/public/images/correct-style-8.png
-0 4 0 5788 0 0
+0 10 0 14470 0 0
 /wp-content/plugins/quiz-cat/includes/deactivation.min.js
-0 12 3617570281050079232 4050 0 0
+0 18 0 5670 0 0
+/wp-content/plugins/ultimate-member/assets/css/um-profile.css
+0 88 0 190776 0 0
 /wp-content/plugins/mobile-login-woocommerce/assets/js/xoo-ml-phone-js.js
 0 2 0 10364 0 0
-/wp-content/plugins/ultimate-member/assets/css/um-profile.css
-0 34 0 106992 0 0
 /wp-content/plugins/themeisle-companion/obfx_modules/companion-legacy/inc/hestia/inc/img/clients4.png
-0 16 0 33152 0 0
+0 20 0 41440 0 0
 /wp-content/plugins/ultimate-member/assets/font/ionicons.woff
-0 14 0 952840 0 0
+0 32 0 1905680 0 0
 /wp-content/uploads/2020/04/contact-150x150.jpg
 0 2 0 17830 0 0
-/wp-content/themes/hestia/assets/img/ajax-loader.gif
-0 16 0 27024 0 0
 /wp-content/themes/hestia/assets/font-awesome/webfonts/fa-solid-900.woff2
-0 66 0 4221952 0 0
+0 102 0 5729792 0 0
+/wp-content/themes/hestia/assets/img/ajax-loader.gif
+0 18 0 30402 0 0
 /wp-content/plugins/themeisle-companion/vendor/codeinwp/templates-directory/css/admin.css
 0 2 0 3886 0 0
 /wp-content/plugins/quiz-maker/admin/images/up_green_arrow.png
-0 4 0 3520 0 0
+0 12 0 10560 0 0
 /wp-content/plugins/loginpress/img/thumbnail/default-18.png
 0 4 0 71584 0 0
 /wp-content/themes/docent/lib/customizer/assets/css/customizer.css
 0 2 0 2618 0 0
+/wp-content/plugins/wpforms-lite/assets/css/jquery-confirm.min.css
+0 4 0 18160 0 0
 /wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome-iconpicker/dist/css/fontawesome-iconpicker.min.css
 0 2 0 3094 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/js/um-admin-global.js
-0 18 0 5670 0 0
+0 46 0 8910 0 0
 /wp-content/plugins/ultimate-member/assets/js/um-account.min.js
-0 42 0 38224 0 0
+0 118 0 63168 0 0
 /wp-content/plugins/loginpress/img/thumbnail/gallery-img-8.jpg
 0 4 0 21784 0 0
 /wp-admin/
-0 51 0 1638856 2 6
+0 71 0 2120035 3 8
 /wp-content/plugins/quiz-cat/includes/quiz/jquery.waitforimages.min.js
-0 28 0 18160 0 0
+0 48 0 29208 0 0
 /wp-includes/js/wp-auth-check.min.js
-0 36 0 16880 0 0
+0 62 0 23632 0 0
+/wp-content/uploads/2020/04/cropped-LogoMakr_20KQqI-2.png
+0 24 0 611424 0 0
 /wp-content/plugins/quiz-maker/admin/js/partials/quiz-maker-admin-questions.js
-0 4 9464656 18616 0 0
+0 16 0 65156 0 0
 /wp-includes/js/tinymce/plugins/fullscreen/plugin.min.js
-0 22 0 16344 0 0
+0 34 0 23608 0 0
 /wp-content/plugins/optinmonster/assets/fonts/archie.woff
 0 24 0 62480 0 0
 /wp-content/uploads/2020/04/cropped-LogoMakr_20KQqI-1-192x192.png
 0 2 0 33680 0 0
-/wp-content/plugins/quiz-maker/public/images/traditional-checkbox-ok.jpg
-0 4 9465472 2256 0 0
 /wp-content/plugins/themeisle-companion/obfx_modules/gutenberg-blocks/assets/fontawesome/css/v4-shims.min.css
-0 71 0 429382 0 0
+0 123 0 571038 0 0
+/wp-content/plugins/quiz-maker/public/images/traditional-checkbox-ok.jpg
+0 4 0 2256 0 0
+/wp-content/plugins/quiz-maker/public/js/user-page/user-page-public.js
+0 8 0 7792 0 0
 /wp-includes/js/dist/priority-queue.min.js
-0 14 0 9696 0 0
+0 22 0 14544 0 0
 /wp-content/plugins/ultimate-member/assets/css/um-old-default.css
-0 34 0 51148 0 0
+0 88 0 76908 0 0
 /wp-includes/js/plupload/plupload.min.js
-0 22 0 121950 0 0
+0 36 0 176150 0 0
 /wp-admin/load-styles.php
-0 79 0 11025409 0 0
+0 164 0 22831394 0 0
 /wp-content/plugins/jetpack/css/jetpack-icons.min.css
 0 16 0 4410 0 0
 /wp-admin/js/word-count.min.js
-0 11 0 5656 0 0
+0 15 0 7777 0 0
 /wp-content/plugins/easy-login-woocommerce/assets/css/xoo-el-style.css
 0 8 0 14424 0 0
 /wp-content/themes/hestia/assets/js/admin/customizer-controls.min.js
-0 18 0 145152 0 0
+0 28 0 217728 0 0
 /wp-content/plugins/themeisle-companion/vendor/codeinwp/gutenberg-blocks/build/editor.css
-0 10 0 186240 0 0
+0 16 0 297984 0 0
 /wp-content/plugins/akismet/_inc/akismet.css
 0 12 0 48276 0 0
 /wp-content/themes/hestia/vendor/codeinwp/ti-about-page/assets/css/about.css
 0 4 0 4772 0 0
 /wp-includes/js/masonry.min.js
-0 44 0 469972 0 0
+0 124 0 751864 0 0
 /wp-content/plugins/wpforms-lite/assets/js/moment.min.js
-0 30 0 560700 0 0
+0 44 0 801000 0 0
 /wp-content/plugins/optinmonster/assets/css/images/features-builder.png
 0 2 0 70890 0 0
 /wp-includes/js/dist/vendor/moment.min.js
-0 16 0 280350 0 0
+0 24 0 400500 0 0
 /wp-includes/js/jquery/ui/button.min.js
-0 36 0 47780 0 0
+0 62 0 66892 0 0
 /wp-includes/js/heartbeat.min.js
-0 36 0 40446 0 0
+0 62 0 58422 0 0
 /wp-content/uploads/2020/04/IMG-20200116-WA0003-e1586958787856-232x300.jpg
-0 44 0 717444 0 0
+0 66 0 1281150 0 0
 /wp-content/plugins/themeisle-companion/vendor/codeinwp/gutenberg-blocks/assets/glide/glide.theme.min.css
-0 10 0 5100 0 0
+0 16 0 8160 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/control/admin.png
+0 2 0 2804 0 0
 /wp-content/plugins/quiz-maker/admin/images/integrations/zapier_logo.png
-0 8 9454448 98872 0 0
+0 16 0 197744 0 0
 /wp-content/plugins/quiz-maker/admin/images/features/pro1-compressor.png
-0 2 9460752 64232 0 0
+0 2 0 64232 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/email/wp-mail-smtp.png
+0 8 0 192696 0 0
 /wp-admin/users.php
-0 21 0 498208 0 0
+0 23 0 551615 0 0
 /wp-content/plugins/optinmonster/assets/css/images/video-cta-button.png
 0 2 0 42952 0 0
+/wp-content/plugins/wp-mail-smtp/assets/js/smtp-admin.min.js
+0 2 0 3256 0 0
 /wp-admin/edit-tags.php
 0 17 0 473104 0 0
 /wp-includes/js/jquery/ui/selectable.min.js
 0 2 0 2960 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/css/um-admin-misc.css
-0 12 0 19416 0 0
+0 22 0 29124 0 0
 /wp-content/plugins/loginpress/img/thumbnail/default-16.png
 0 4 0 65624 0 0
 /wp-content/plugins/quiz-maker/public/images/wrong-style-10.png
-0 4 0 8208 0 0
+0 10 0 20520 0 0
 /wp-content/plugins/quiz-maker/admin/js/quiz-maker-admin.js
-0 10 0 183752 0 0
+0 22 0 290122 0 0
 /wp-content/themes/docent/lib/customizer/assets/select2/js/select2.min.js
 0 2 0 49162 0 0
-/wp-content/plugins/quiz-maker/admin/images/loaders/cogs.svg
-0 8 0 45888 0 0
 /wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue/js/widget.js
 0 10 0 143760 0 0
+/wp-content/plugins/quiz-maker/admin/images/loaders/cogs.svg
+0 16 0 80304 0 0
 /wp-content/plugins/quiz-maker/admin/images/themes/classic_light.PNG
 0 6 0 149634 0 0
-/wp-includes/js/mediaelement/mediaelement-and-player.min.js
-0 28 0 930384 0 0
 /wp-content/plugins/optinmonster/assets/css/images/features-analytics.png
 0 2 0 162278 0 0
+/wp-includes/js/mediaelement/mediaelement-and-player.min.js
+0 42 0 1395576 0 0
 /wp-includes/js/dist/a11y.min.js
-0 36 0 16720 0 0
+0 64 0 25080 0 0
+/cgi-sys/403.html
+0 2 0 1464 0 0
 /wp-includes/js/zxcvbn.min.js
-0 30 0 9617124 0 0
+0 50 0 14862828 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/control/comments.png
+0 2 0 1742 0 0
 /wp-content/themes/docent/style.css
 0 2 0 7956 0 0
-/wp-content/themes/hestia/assets/font-awesome/css/all.min.css
-0 85 0 1061026 0 0
 /wp-includes/js/imagesloaded.min.js
-0 48 0 132536 0 0
+0 128 0 208092 0 0
+/wp-content/themes/hestia/assets/font-awesome/css/all.min.css
+0 140 0 1342454 0 0
 /wp-content/plugins/loginpress/js/controls/loginpress-radio-button-control.js
 0 6 0 2808 0 0
 /wp-content/plugins/quiz-maker/admin/js/partials/functions.js
-0 4 0 17616 0 0
+0 16 0 61656 0 0
 /wp-content/themes/hestia/inc/admin/metabox/controls/assets/radio-image.css
-0 20 0 8480 0 0
+0 36 0 11872 0 0
 /favicon.ico
 0 4 0 12144 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/css/um-admin-builder.css
-0 12 0 22788 0 0
+0 22 0 34182 0 0
 /wp-content/plugins/quiz-maker/admin/images/icons/question2.png
-0 6 0 85170 0 0
+0 18 0 255510 0 0
 /wp-includes/js/codemirror/codemirror.min.js
-0 22 0 4254552 0 0
+0 36 0 6145464 0 0
 /wp-content/plugins/quiz-maker/admin/js/ays-select2-dropdown-adapter.js
-0 4 0 2452 0 0
+0 16 0 8582 0 0
 /wp-content/plugins/jetpack/_inc/build/admin.js
 0 2 0 762886 0 0
 /wp-content/uploads/themeisle-gutenberg/post-250.css
-0 2 9470880 436 0 0
+0 2 0 436 0 0
 /wp-includes/js/imgareaselect/imgareaselect.css
-0 18 0 4770 0 0
+0 34 0 8480 0 0
+/wp-content/plugins/wp-meta-and-date-remover/include/codemirror/css.js
+0 2 0 22884 0 0
 /wp-content/plugins/themeisle-companion/vendor/codeinwp/gutenberg-blocks/build/style.css
-0 69 0 363891 0 0
+0 117 0 438249 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/providers/smtp.svg
+0 2 0 3154 0 0
 /wp-includes/js/tinymce/plugins/hr/plugin.min.js
-0 22 0 4428 0 0
+0 34 0 6396 0 0
 /wp-json/wp/v2/posts/
 0 1 0 11126 0 0
 /wp-content/plugins/optinmonster/assets/css/images/features-ab-testing.png
 0 2 0 133004 0 0
+/wp-content/plugins/quiz-maker/admin/images/equal.png
+0 4 0 2812 0 0
 /wp-includes/js/dist/data-controls.min.js
-0 14 0 16080 0 0
+0 22 0 24120 0 0
 /wp-content/plugins/loginpress/css/style-previewer.css
 0 4 0 3768 0 0
 /wp-content/plugins/quiz-cat/includes/wysi/wysihtml.min.js
-0 18 0 1315902 0 0
+0 22 0 1503888 0 0
 /wp-content/plugins/themeisle-companion/core/assets/css/orbit-fox-admin.css
-0 8 0 145424 0 0
+0 12 0 218136 0 0
 /wp-content/plugins/themeisle-companion/images/orbit-fox.png
-0 4 0 22880 0 0
+0 6 0 34320 0 0
 /wp-content/plugins/quiz-maker/public/css/quiz-maker-public.css
-0 108 0 1375422 0 0
+0 624 0 7709836 0 0
 /wp-includes/css/admin-bar.min.css
-0 54 0 324168 0 0
+0 126 0 723144 0 0
 /wp-content/plugins/loginpress/js/customize-controls.js
 0 6 0 100824 0 0
 /wp-content/plugins/optinmonster/assets/js/pointer.js
 0 10 0 3030 0 0
 /wp-includes/js/media-audiovideo.min.js
-0 28 0 70336 0 0
+0 42 0 105504 0 0
 /wp-includes/js/wp-ajax-response.min.js
-0 34 0 17820 0 0
+0 50 0 27720 0 0
 /wp-includes/images/uploader-icons.png
-0 6 0 9336 0 0
-/wp-content/plugins/quiz-maker/admin/js/admin.js
-0 6 9456416 3642 0 0
+0 8 0 12448 0 0
 /wp-admin/js/inline-edit-tax.min.js
 0 4 0 2514 0 0
+/wp-content/plugins/quiz-maker/admin/js/admin.js
+0 20 0 9692 0 0
 /wp-content/plugins/quiz-cat/includes/block.js
-0 10 0 5144 0 0
+0 14 0 6430 0 0
 /wp-admin/admin.php
-0 127 0 6108010 0 0
+0 420 0 20678457 0 0
 /Quiz.js
 0 19 0 35214 0 0
 /wp-content/themes/hestia/inc/admin/metabox/controls/assets/radio-image.js
-0 36 0 16048 0 0
+0 64 0 24072 0 0
 /wp-content/plugins/ultimate-member/assets/js/um-responsive.min.js
-0 42 0 5644 0 0
+0 120 0 9328 0 0
 /wp-admin/images/w-logo-blue.png
 0 55 0 171215 0 0
 /wp-content/themes/hestia/vendor/codeinwp/ti-about-page/assets/js/script.js
 0 4 0 7362 0 0
 /wp-content/uploads/2020/04/IMG_3615-e1586972710148-300x284.jpg
-0 42 0 353756 0 0
+0 66 0 653088 0 0
 /wp-includes/js/tinymce/skins/lightgray/skin.min.css
-0 20 0 243360 0 0
-/wp-content/plugins/quiz-maker/admin/images/icons/users2.png
-0 6 0 122442 0 0
+0 36 0 438048 0 0
 /wp-admin/js/theme-plugin-editor.min.js
-0 5 0 20050 0 0
+0 11 0 36090 0 0
+/wp-content/plugins/quiz-maker/admin/images/icons/users2.png
+0 18 0 367326 0 0
 /wp-includes/js/jquery/ui/droppable.min.js
-0 18 0 35104 0 0
+0 28 0 52656 0 0
 /wp-includes/js/tinymce/plugins/lists/plugin.min.js
-0 22 0 191286 0 0
+0 34 0 276302 0 0
 /wp-content/plugins/quiz-maker/admin/images/themes/modern_dark.jpg
-0 4 0 68208 0 0
+0 10 0 170520 0 0
+/wp-content/uploads/2020/04/cropped-LogoMakr_20KQqI-4-32x32.png
+0 130 0 225810 0 0
 /wp-content/plugins/wpforms-lite/assets/images/sullie.png
 0 2 0 50014 0 0
-/wp-content/themes/hestia/assets/css/font-sizes.min.css
-0 81 0 62808 0 0
 /LogoMakr_3VDkyB.png
 0 4 0 33216 0 0
+/wp-content/themes/hestia/assets/css/font-sizes.min.css
+0 125 0 74064 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/css/um-admin-menu.css
-0 12 0 1704 0 0
-/wp-content/plugins/quiz-maker//quiz/quiz-maker-block.js
-0 3 0 12362 0 0
+0 22 0 2556 0 0
 /wp-admin/js/theme.min.js
-0 4 0 40476 0 0
+0 5 0 50595 0 0
+/wp-content/plugins/quiz-maker//quiz/quiz-maker-block.js
+0 7 0 25028 0 0
+/wp-content/plugins/ultimate-member/includes/admin/assets/js/um-admin-role-wrapper.js
+0 2 0 728 0 0
 /wp-content/themes/hestia/editor-style.css
-0 18 0 121284 0 0
+0 24 0 161712 0 0
 /wp-content/plugins/quiz-maker/public/css/loaders.css
-0 6 9459200 16452 0 0
+0 50 0 86110 0 0
 /wp-content/themes/hestia/assets/img/6.jpg
-0 32 0 245670 0 0
+0 36 0 278426 0 0
 /wp-content/themes/hestia/assets/img/4.jpg
 0 62 0 1271380 0 0
 /wp-includes/js/dist/edit-post.min.js
-0 14 0 1208184 0 0
+0 22 0 1812276 0 0
 /wp-content/plugins/loginpress/img/thumbnail/default-15.png
 0 4 0 96904 0 0
 /wp-content/themes/hestia/onboarding/hestia-zelle/screenshot.jpg
@@ -690,11 +752,13 @@
 /wp-content/plugins/google-analytics-for-wordpress/assets/js/admin-common.min.js
 0 12 0 2460 0 0
 /wp-content/uploads/2020/04/apple-1676683_1920-300x259.jpg
-0 18 0 260568 0 0
+0 28 0 405328 0 0
 /wp-content/themes/hestia/assets/bootstrap/css/bootstrap.min.css
-0 94 0 1965064 0 0
+0 149 0 2639068 0 0
+/wp-content/plugins/wp-mail-smtp/assets/libs/jquery-confirm.min.js
+0 2 0 18052 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/css/um-admin-modal.css
-0 12 0 21600 0 0
+0 22 0 32400 0 0
 /wp-content/plugins/optinmonster/assets/css/images/neilpatel.png
 0 2 0 94482 0 0
 /wp-content/themes/docent/lib/customizer/assets/js/customizer.js
@@ -702,31 +766,33 @@
 /wp-content/plugins/loginpress/img/thumbnail/default-9.png
 0 4 0 39952 0 0
 /wp-content/plugins/quiz-maker/public/images/correct-style-9.png
-0 4 0 4340 0 0
+0 10 0 10850 0 0
 /wp-content/plugins/quiz-maker/admin/js/jquery-ui-timepicker-addon.js
-0 10 0 245110 0 0
+0 22 0 490220 0 0
 /wp-content/plugins/quiz-cat/includes/wysi/wysi.min.css
-0 28 0 13468 0 0
+0 34 0 16354 0 0
 /wp-content/plugins/quiz-maker/admin/js/FileSaver.js
-0 4 9462704 14508 0 0
+0 16 0 50778 0 0
 /wp-content/themes/hestia/assets/img/3.jpg
 0 44 0 663136 0 0
 /wp-content/uploads/2020/04/IMG_4025-300x225.jpg
-0 44 0 588084 0 0
+0 68 0 1050150 0 0
 /wp-content/plugins/quiz-maker/admin/js/partials/quiz-maker-admin-quiz-styles.js
-0 4 9464128 35368 0 0
+0 16 0 123788 0 0
 /wp-includes/js/imgareaselect/border-anim-v.gif
 0 6 0 1068 0 0
 /wp-content/plugins/quiz-maker/admin/images/integrations/campaignmonitor_logo.png
-0 8 9454976 27848 0 0
+0 16 0 55696 0 0
 /wp-includes/js/dist/format-library.min.js
-0 14 0 125544 0 0
+0 22 0 188316 0 0
 /wp-admin/update.php
-0 2 9461584 25761 0 0
+0 2 0 25761 0 0
+/wp-content/plugins/wpforms-lite/assets/js/jquery.minicolors.min.js
+0 4 0 22012 0 0
 /wp-content/plugins/ultimate-member/assets/js/um-gdpr.min.js
-0 40 0 6378 0 0
+0 118 0 11170 0 0
 /wp-includes/js/dist/vendor/lodash.min.js
-0 18 0 461968 0 0
+0 26 0 635206 0 0
 /wp-content/plugins/easy-login-woocommerce/assets/js/xoo-el-js.js
 0 8 0 25312 0 0
 /wp-content/themes/twentytwenty/assets/js/customize.js
@@ -734,277 +800,301 @@
 /wp-content/uploads/2020/04/cropped-LogoMakr_20KQqI.png
 0 16 0 198224 0 0
 /wp-admin/edit.php
-0 177 0 5080206 0 0
-/wp-content/plugins/quiz-maker/public/images/correct-style-5.png
-0 8 0 6800 0 0
+0 231 0 6758305 0 0
 /wp-content/plugins/easy-login-woocommerce/assets/fonts/Easy-Login.ttf
 0 8 0 24672 0 0
+/wp-content/plugins/quiz-maker/public/images/correct-style-5.png
+0 14 0 11900 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/js/um-admin-scripts.js
-0 14 0 26268 0 0
+0 36 0 39402 0 0
+/wp-admin/options-writing.php
+0 2 0 32935 0 0
 /wp-includes/js/jquery/ui/draggable.min.js
-0 26 0 122680 0 0
+0 52 0 184020 0 0
 /wp-content/plugins/quiz-maker/public/js/theme_rect_light.js
-0 4 0 3636 0 0
+0 16 0 12726 0 0
 /wp-content/plugins/ultimate-member/assets/js/um-jquery-form.min.js
-0 44 0 260178 0 0
+0 118 0 426708 0 0
 /wp-content/plugins/loginpress/img/thumbnail/default-1.png
 0 6 0 72636 0 0
 /wp-includes/js/jquery/ui/mouse.min.js
-0 36 0 19926 0 0
-/wp-content/plugins/quiz-maker/admin/images/themes/rect_dark.JPG
-0 8 0 142600 0 0
-/wp-includes/js/dist/components.min.js
-0 14 0 3191040 0 0
+0 62 0 28782 0 0
 /wp-content/plugins/wpforms-lite/assets/css/wpforms-full.css
-0 76 0 710228 0 0
+0 101 0 985197 0 0
+/wp-includes/js/dist/components.min.js
+0 22 0 4786560 0 0
+/wp-content/plugins/quiz-maker/admin/images/themes/rect_dark.JPG
+0 14 0 249550 0 0
 /wp-content/uploads/2020/04/IMG_4025-scaled.jpg
 0 2 0 1098878 0 0
 /wp-admin/js/widgets/custom-html-widgets.min.js
-0 9 0 17712 0 0
+0 14 0 26568 0 0
 /wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue/js/chunk-frontend-vendors.js
 0 30 0 402732 0 0
 /wp-content/uploads/ultimatemember/1/profile_photo-40x40.jpg
-0 20 0 23360 0 0
+0 44 0 51392 0 0
 /wp-content/plugins/quiz-maker/admin/css/admin.css
-0 10 9406656 9858 0 0
+0 54 0 49418 0 0
 /wp-content/uploads/2020/04/FIXJ1457-244x300.jpeg
-0 54 0 454104 0 0
+0 75 0 718998 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/control/update.png
+0 2 0 2514 0 0
 /wp-content/plugins/loginpress/img/thumbnail/default-11.png
 0 4 0 101052 0 0
 /wp-content/uploads/2020/04/37C38A16-969D-49D9-A80D-613921141428_1_201_a-e1587429206136-150x150.jpeg
-0 4 9469984 19504 0 0
+0 34 0 156032 0 0
 /wp-includes/js/wp-sanitize.min.js
-0 36 0 6226 0 0
+0 56 0 8490 0 0
 /wp-content/plugins/jetpack/_inc/build/admin.css
 0 4 0 79684 0 0
 /wp-includes/js/media-editor.min.js
-0 28 0 67584 0 0
+0 42 0 101376 0 0
 /wp-content/plugins/ultimate-member/assets/css/jquery-ui.css
-0 12 0 123240 0 0
+0 28 0 246480 0 0
 /wp-content/plugins/loginpress/img/promo/font_promo.png
 0 6 0 87210 0 0
 /wp-content/themes/twentynineteen/screenshot.png
-0 8 0 1404280 0 0
+0 10 0 1755350 0 0
 /wp-content/plugins/ultimate-member/assets/img/default_avatar.jpg
-0 8 0 14520 0 0
+0 12 0 21780 0 0
+/wp-includes/css/dashicons.min.css
+0 178 0 4673344 0 0
 /wp-content/themes/docent/css/responsive.css
 0 2 0 15324 0 0
-/wp-includes/css/dashicons.min.css
-0 84 0 2222688 0 0
 /wp-content/plugins/optinmonster/assets/css/images/omapi-graph.png
 0 2 0 28954 0 0
 /wp-includes/js/customize-base.min.js
-0 18 0 45520 0 0
+0 26 0 62590 0 0
 /wp-admin/js/inline-edit-post.min.js
-0 15 0 24552 0 0
+0 25 0 33759 0 0
 /wp-includes/js/mediaelement/wp-mediaelement.min.css
-0 18 0 23364 0 0
+0 36 0 44132 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/control/user_new.png
+0 2 0 2286 0 0
 /wp-includes/js/tinymce/tinymce.min.js
-0 26 0 2762154 0 0
+0 52 0 4296684 0 0
 /wp-content/plugins/ultimate-member/assets/css/um-fonticons-fa.css
-0 40 0 280048 0 0
+0 98 0 453042 0 0
 /wp-content/plugins/quiz-maker/admin/js/dataTables.bootstrap4.min.js
-0 10 0 11090 0 0
+0 22 0 22180 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/css/um-admin-global.css
-0 12 0 17268 0 0
+0 30 0 34536 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/providers/aws.svg
+0 2 0 5290 0 0
 /wp-content/themes/hestia/style.min.css
-0 86 0 4036752 0 0
+0 139 0 5298924 0 0
 /wp-content/themes/docent/lib/customizer/assets/js/thmc-rgba-colorpicker.js
 0 2 0 2456 0 0
 /wp-content/plugins/quiz-maker/admin/images/themes/classic_light.jpg
-0 4 0 65840 0 0
+0 10 0 164600 0 0
 /wp-content/plugins/themeisle-companion/obfx_modules/mystock-import/css/media.css
-0 12 0 12816 0 0
+0 18 0 19224 0 0
 /wp-content/themes/hestia/assets/font-awesome/webfonts/fa-brands-400.woff2
-0 62 0 3881867 0 0
+0 104 0 5825627 0 0
 /wp-content/themes/twentytwenty/assets/js/customize-controls.js
 0 2 0 2156 0 0
 /wp-includes/js/mediaelement/mediaelement-migrate.min.js
-0 28 0 8704 0 0
+0 42 0 13056 0 0
 /wp-includes/js/comment-reply.min.js
-0 93 0 76296 0 0
+0 138 0 103528 0 0
 /wp-content/uploads/2020/04/cropped-LogoMakr_20KQqI-1-32x32.png
 0 4 0 6524 0 0
 /wp-content/plugins/quiz-maker/admin/images/live-preview/416x416-1.jpg
-0 4 0 74376 0 0
+0 10 0 185940 0 0
 /wp-content/themes/hestia/inc/customizer/controls/ui/customizer-scroll/helper-script.js
-0 18 0 8352 0 0
+0 24 0 11484 0 0
 /wp-admin/revision.php
 0 4 0 84227 0 0
 /wp-content/themes/twentyseventeen/screenshot.png
-0 6 0 2182998 0 0
+0 8 0 2910664 0 0
 /wp-includes/js/jquery/jquery-migrate.min.js
-0 107 0 344752 0 0
-/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js
-0 26 0 33120 0 0
+0 186 0 467076 0 0
 /wp-includes/js/zxcvbn-async.min.js
-0 26 0 6192 0 0
+0 46 0 8256 0 0
+/wp-includes/js/tinymce/plugins/compat3x/plugin.min.js
+0 52 0 47840 0 0
 /wp-content/plugins/google-analytics-for-wordpress/assets/css/admin-common.min.css
 0 12 0 3348 0 0
 /wp-content/plugins/loginpress/img/thumbnail/gallery-img-6.jpg
 0 4 0 95048 0 0
 /wp-content/plugins/ultimate-member/assets/css/um-fonticons-ii.css
-0 40 0 277124 0 0
+0 99 0 423032 0 0
 /wp-content/themes/hestia/assets/img/contact.jpg
-0 16 0 2173072 0 0
+0 26 0 3531242 0 0
 /wp-content/themes/hestia/assets/img/5.jpg
-0 34 0 1239680 0 0
+0 38 0 1394640 0 0
 /wp-includes/js/dist/vendor/react.min.js
-0 16 0 81732 0 0
+0 24 0 116760 0 0
 /wp-content/plugins/loginpress/img/thumbnail/gallery-img-3.jpg
 0 4 0 54224 0 0
 /wp-content/plugins/loginpress/img/thumbnail/custom-design.png
 0 4 0 4488 0 0
 /wp-includes/js/dist/token-list.min.js
-0 14 0 15864 0 0
+0 22 0 23796 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/css/um-admin-form.css
-0 12 0 5976 0 0
+0 28 0 11952 0 0
 /wp-admin/post-new.php
-0 48 0 3510833 0 0
+0 59 0 4632249 0 0
 /wp-content/uploads/2020/04/LogoMakr_20KQqI-239x300.png
-0 16 0 554128 0 0
-/wp-content/plugins/quiz-maker/admin/js/animated.js
-0 4 9466096 3188 0 0
+0 26 0 831192 0 0
+/wp-content/plugins/wpforms-lite/assets/images/admin-flyout-menu/sullie-default.svg
+0 4 0 17376 0 0
 /wp-content/themes/docent/screenshot.png
-0 6 0 3659772 0 0
-/wp-content/plugins/quiz-maker/admin/js/partials/quiz-maker-admin-quiz-tabs.js
-0 4 9464480 13740 0 0
+0 8 0 4879696 0 0
+/wp-content/plugins/quiz-maker/admin/js/animated.js
+0 12 0 9564 0 0
 /wp-content/plugins/optinmonster/assets/css/pointer.css
 0 10 0 3720 0 0
+/wp-content/plugins/quiz-maker/admin/js/partials/quiz-maker-admin-quiz-tabs.js
+0 16 0 48090 0 0
 /wp-content/uploads/2020/04/contact-300x200.jpg
-0 12 0 248904 0 0
+0 22 0 456324 0 0
 /wp-admin/upgrade.php
 0 1 0 1 0 0
 /wp-content/plugins/loginpress/img/thumbnail/gallery-img-2.jpg
 0 4 0 33232 0 0
 /wp-includes/js/jquery/ui/core.min.js
-0 107 0 116539 0 0
+0 184 0 156376 0 0
 /wp-includes/js/dist/editor.min.js
-0 14 0 781608 0 0
+0 22 0 1172412 0 0
 /wp-admin/images/browser.png
-0 2 0 81252 0 0
+0 7 0 284382 0 0
 /wp-content/uploads/2020/04/LogoMakr_20KQqI.png
-0 72 0 1685952 0 0
+0 120 0 2792358 0 0
 /wp-includes/js/dist/block-serialization-default-parser.min.js
-0 14 0 23928 0 0
+0 22 0 35892 0 0
 /wp-includes/js/dist/redux-routine.min.js
-0 14 0 42120 0 0
+0 22 0 63180 0 0
 /wp-content/plugins/jetpack/css/jetpack-connect.min.css
 0 14 0 3374 0 0
+/wp-content/plugins/wp-meta-and-date-remover/include/codemirror/dracula.css
+0 2 0 1214 0 0
 /wp-content/plugins/quiz-maker/public/images/correct.png
-0 8 0 3880 0 0
+0 14 0 6790 0 0
 /wp-content/uploads/2020/04/IMG_1885-225x300.jpg
 0 2 0 40296 0 0
 /wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/assets/css/xoo-aff-style.css
 0 8 0 7752 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/js/um-admin-dragdrop.js
-0 14 0 42480 0 0
+0 36 0 70800 0 0
 /wp-includes/js/wp-util.min.js
-0 66 0 27064 0 0
+0 148 0 36552 0 0
+/wp-includes/js/mediaelement/wp-playlist.min.js
+0 24 0 27412 0 0
 /wp-content/themes/hestia/onboarding/hestia-vet-center/screenshot.jpg
 0 4 0 104844 0 0
-/wp-includes/js/mediaelement/wp-playlist.min.js
-0 18 0 19936 0 0
 /wp-content/plugins/quiz-maker/admin/images/themes/elegant_dark.JPG
-0 8 0 209178 0 0
+0 14 0 356346 0 0
 /wp-content/plugins/optinmonster/assets/css/images/features-exit-animated.gif
 0 2 0 294996 0 0
 /wp-content/themes/hestia/assets/css/gutenberg-editor-style.min.css
-0 12 0 9756 0 0
+0 22 0 17886 0 0
 /wp-content/themes/hestia/inc/customizer/controls/custom-controls/customizer-page-editor/js/hestia-text-editor.js
-0 20 0 24444 0 0
+0 30 0 35308 0 0
 /wp-content/plugins/ultimate-member/assets/js/um-modal.min.js
-0 44 0 63004 0 0
+0 116 0 95080 0 0
 /wp-content/plugins/jetpack/css/jetpack-banners.min.css
 0 4 0 8828 0 0
 /wp-includes/js/dist/vendor/react-dom.min.js
-0 16 0 640556 0 0
+0 24 0 915080 0 0
 /wp-content/plugins/quiz-maker/admin/js/cookie.js
-0 4 9464832 2680 0 0
+0 16 0 9380 0 0
 /wp-includes/js/dist/html-entities.min.js
-0 14 0 7812 0 0
+0 22 0 11718 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/email/signature.png
+0 8 0 91192 0 0
 /wp-content/uploads/2020/04/IMG_3615-300x300.jpg
 0 2 0 31084 0 0
 /wp-content/themes/twentytwenty/assets/fonts/inter/Inter-upright-var.woff2
 0 2 0 447784 0 0
 /wp-content/plugins/wpforms-lite/assets/css/dashboard-widget.min.css
-0 22 0 47520 0 0
+0 34 0 73440 0 0
 /wp-includes/js/jquery/suggest.min.js
-0 22 0 22896 0 0
-/wp-includes/js/media-models.min.js
-0 28 0 83728 0 0
+0 30 0 31482 0 0
 /wp-admin/js/updates.min.js
-0 16 0 122730 0 0
+0 26 0 184095 0 0
+/wp-includes/js/media-models.min.js
+0 42 0 125592 0 0
 /wp-login.php
-0 28 0 89344 0 0
+0 51 0 159896 0 0
 /wp-includes/js/dist/hooks.min.js
-0 36 0 44960 0 0
+0 62 0 62944 0 0
 /wp-content/plugins/loginpress/img/thumbnail/default-2.png
 0 6 0 141396 0 0
 /wp-includes/js/dist/keycodes.min.js
-0 14 0 24420 0 0
+0 22 0 36630 0 0
+/wp-content/plugins/wp-meta-and-date-remover/include/codemirror/codemirror.js
+0 2 0 256172 0 0
 /wp-content/uploads/2020/04/apple-1676683_1920.jpg
-0 75 0 43376580 0 0
+0 104 0 69462925 0 0
 /wp-includes/js/tinymce/plugins/media/plugin.min.js
-0 22 0 112392 0 0
+0 34 0 162344 0 0
 /wp-admin/css/login.min.css
-0 12 0 25380 0 0
+0 16 0 33840 0 0
 /wp-admin/js/site-health.min.js
-0 15 0 24596 0 0
+0 22 0 34056 0 0
 /wp-admin/js/edit-comments.min.js
-0 15 0 81341 0 0
+0 22 0 118883 0 0
 /wp-includes/js/backbone.min.js
-0 28 0 149824 0 0
+0 42 0 224736 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/providers/microsoft.svg
+0 2 0 6198 0 0
+/wp-content/plugins/wpforms-lite/lite/assets/js/admin/education.min.js
+0 4 0 1236 0 0
 /wp-content/themes/hestia/gutenberg/blocks/team/screenshot.png
 0 4 0 362308 0 0
 /wp-includes/js/imgareaselect/jquery.imgareaselect.min.js
-0 13 0 33152 0 0
+0 19 0 49728 0 0
 /wp-content/plugins/quiz-maker/public/js/functions.js
-0 6 9459808 16418 0 0
+0 54 0 79526 0 0
+/wp-content/plugins/wp-meta-and-date-remover/include/materialize/materialize.min.js
+0 2 0 116984 0 0
 /wp-content/plugins/ultimate-member/assets/js/select2/select2.full.min.js
-0 46 0 1398766 0 0
+0 117 0 2055025 0 0
 /wp-content/plugins/quiz-maker/admin/js/bootstrap.min.js
-0 10 80 232208 0 0
+0 22 0 441028 0 0
 /wp-admin/js/widgets/media-widgets.min.js
-0 9 0 44536 0 0
+0 14 0 66804 0 0
 /wp-admin/user-edit.php
-0 11 0 243168 0 0
+0 12 0 265643 0 0
 /wp-content/themes/docent/css/woocommerce.css
 0 2 0 28528 0 0
 /wp-includes/js/dist/plugins.min.js
-0 14 0 30408 0 0
+0 22 0 45612 0 0
 /wp-includes/js/tinymce/plugins/wordpress/plugin.min.js
-0 22 0 126288 0 0
+0 34 0 182416 0 0
 /wp-content/plugins/quiz-maker/public/js/theme_elegant_dark.js
-0 4 0 3028 0 0
+0 16 0 10598 0 0
 /wp-includes/js/jquery/jquery.js
-0 109 0 3189964 0 0
-/wp-includes/js/tinymce/plugins/wpdialogs/plugin.min.js
-0 22 0 11988 0 0
+0 186 0 4173582 0 0
 /wp-content/plugins/ultimate-member/assets/css/select2/select2.min.css
-0 38 0 167484 0 0
+0 88 0 234744 0 0
+/wp-includes/js/tinymce/plugins/wpdialogs/plugin.min.js
+0 34 0 17316 0 0
 /wp-admin/js/media.min.js
 0 1 0 880 0 0
 /wp-includes/js/dist/vendor/wp-polyfill-url.min.js
-0 2 0 34160 0 0
+0 4 0 128330 0 0
+/wp-content/plugins/simple-custom-css/includes/css/editor.css
+0 2 0 290 0 0
 /wp-content/themes/hestia/vendor/codeinwp/ti-about-page//js/plugin-install.js
 0 2 0 1021 0 0
 /wp-admin/js/tags-suggest.min.js
-0 15 0 8784 0 0
+0 25 0 10980 0 0
 /wp-includes/js/dist/is-shallow-equal.min.js
-0 14 0 8964 0 0
+0 22 0 13446 0 0
 /wp-content/plugins/easy-login-woocommerce/assets/images/popup-sidebar.png
 0 8 0 241072 0 0
 /wp-includes/js/wp-embed.min.js
-0 93 0 43012 0 0
+0 164 0 56306 0 0
 /wp-includes/js/tinymce/plugins/colorpicker/plugin.min.js
-0 22 0 11916 0 0
+0 34 0 17212 0 0
 /wp-includes/js/dist/autop.min.js
-0 14 0 37620 0 0
-/wp-includes/js/tinymce/plugins/wpeditimage/plugin.min.js
-0 22 0 97722 0 0
+0 22 0 56430 0 0
 /wp-content/plugins/ultimate-member/assets/js/um-raty.min.js
-0 44 0 151486 0 0
+0 118 0 260936 0 0
+/wp-includes/js/tinymce/plugins/wpeditimage/plugin.min.js
+0 34 0 141154 0 0
 /wp-content/plugins/quiz-maker/admin/images/avatars/pro_avatar.png
 0 2 0 78770 0 0
 /wp-content/plugins/loginpress/img/thumbnail/gallery-img-4.jpg
@@ -1012,321 +1102,365 @@
 /wp-content/plugins/jetpack/images/jetpack-powering-up.svg
 0 2 0 34162 0 0
 /wp-includes/js/wp-emoji-release.min.js
-0 102 0 282292 0 0
+0 185 0 395636 0 0
 /wp-admin/js/postbox.min.js
-0 17 0 14312 0 0
+0 25 0 23257 0 0
 /wp-includes/js/wp-pointer.min.js
 0 10 0 14180 0 0
 /wp-includes/js/wp-backbone.min.js
-0 28 0 19648 0 0
+0 42 0 29472 0 0
 /wp-includes/js/wp-api.min.js
-0 12 0 50620 0 0
+0 20 0 80992 0 0
 /wp-includes/js/jquery/ui/datepicker.min.js
-0 10 0 137860 0 0
+0 22 0 248148 0 0
 /wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue/js/chunk-vendors.js
 0 10 0 1587610 0 0
+/wp-content/plugins/wpforms-lite/assets/fonts/fontawesome-webfont.woff2
+0 4 0 308640 0 0
 /wp-includes/js/tinymce/skins/lightgray/content.min.css
-0 18 0 25740 0 0
+0 26 0 37180 0 0
 /wp-content/plugins/themeisle-companion/vendor/codeinwp/gutenberg-blocks/build/chunk-vendor.js
-0 12 0 240096 0 0
+0 20 0 360144 0 0
 /wp-content/plugins/loginpress/css/controls/loginpress-range-control.css
 0 6 0 3882 0 0
 /wp-content/plugins/quiz-maker/admin/images/loaders/3-1.svg
-0 4 0 2568 0 0
+0 18 0 10272 0 0
 /wp-content/plugins/quiz-maker/admin/js/xlsx.core.min.js
-0 4 0 726232 0 0
+0 16 0 2541812 0 0
 /wp-content/plugins/quiz-maker/public/css/theme_elegant_dark.css
-0 96 0 106656 0 0
+0 544 0 604384 0 0
 /wp-includes/images/spinner.gif
-0 6 0 21936 0 0
+0 8 0 29248 0 0
 /wp-content/plugins/jetpack/_inc/build/connect-button.min.js
 0 14 0 15040 0 0
 /wp-content/plugins/quiz-maker/public/images/wrong-style-2.png
-0 8 0 3760 0 0
+0 14 0 6580 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/control/users.png
+0 2 0 2430 0 0
 /wp-includes/js/dist/element.min.js
-0 14 0 67152 0 0
+0 22 0 100728 0 0
 /wp-content/plugins/quiz-maker/admin/css/bootstrap.min.css
-0 8 0 251180 0 0
+0 36 0 1130912 0 0
 /wp-includes/js/jquery/jquery.masonry.min.js
-0 48 0 36978 0 0
+0 128 0 50010 0 0
 /wp-includes/js/mediaelement/wp-mediaelement.min.js
-0 28 0 7712 0 0
+0 42 0 11568 0 0
 /wp-content/plugins/quiz-maker/admin/images/themes/modern_light.jpg
-0 4 0 88572 0 0
+0 10 0 221430 0 0
 /wp-includes/js/dist/blob.min.js
-0 14 0 7764 0 0
+0 22 0 11646 0 0
 /wp-content/plugins/quiz-maker/admin/images/QuizIntervals.png
 0 6 0 70008 0 0
-/wp-content/themes/hestia/assets/js/admin/typography-customizer-preview.js
-0 18 0 46768 0 0
+/wp-content/plugins/wpforms-lite/assets/js/jquery.conditionals.min.js
+0 4 0 3824 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/recommended.svg
+0 2 0 8556 0 0
 /wp-admin/term.php
 0 7 0 106763 0 0
+/wp-content/themes/hestia/assets/js/admin/typography-customizer-preview.js
+0 24 0 64306 0 0
 /wp-content/plugins/wpforms-lite/assets/js/admin-editor.js
-0 24 0 11814 0 0
-/wp-content/uploads/2020/04/37C38A16-969D-49D9-A80D-613921141428_1_201_a-150x150.jpeg
-0 2 9469616 11292 0 0
+0 36 0 16110 0 0
 /wp-admin/js/color-picker.min.js
-0 8 0 9107 0 0
+0 20 0 14311 0 0
+/wp-content/uploads/2020/04/37C38A16-969D-49D9-A80D-613921141428_1_201_a-150x150.jpeg
+0 2 0 11292 0 0
 /wp-includes/js/thickbox/loadingAnimation.gif
-0 28 0 426664 0 0
+0 44 0 639996 0 0
 /xmlrpc.php
 0 3 0 1954 0 0
 /wp-content/plugins/quiz-cat/includes/quiz/quiz.min.css
-0 20 0 47740 0 0
+0 40 0 97236 0 0
 /wp-content/themes/hestia/gutenberg/blocks/features/screenshot.png
 0 4 0 106312 0 0
 /wp-content/themes/twentytwenty/assets/js/color-calculations.js
 0 2 0 3346 0 0
 /wp-content/plugins/mycred-learndash/inc/assets/css/mycred-leaderboard-style.css
 0 16 0 4648 0 0
-/wp-content/plugins/ultimate-member/assets/css/pickadate/default.date.css
-0 36 0 60530 0 0
 /wp-content/plugins/ultimate-member/assets/css/simplebar.css
-0 30 0 32256 0 0
+0 81 0 56448 0 0
+/wp-content/plugins/ultimate-member/assets/css/pickadate/default.date.css
+0 92 0 111854 0 0
 /wp-content/themes/hestia/onboarding/hestia-default/screenshot.jpg
 0 4 0 214492 0 0
 /wp-content/plugins/ultimate-member/assets/js/um-scripts.min.js
-0 40 0 152888 0 0
+0 114 0 267706 0 0
 /wp-includes/js/quicktags.min.js
-0 30 0 72432 0 0
+0 44 0 120720 0 0
+/wp-content/uploads/2020/04/cropped-vegetables-1085063_1920.jpg
+0 40 0 5524190 0 0
 /wp-includes/js/dist/dom-ready.min.js
-0 38 0 13112 0 0
+0 66 0 17880 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/js/um-admin-settings.js
-0 14 0 5136 0 0
+0 40 0 9416 0 0
 /wp-content/uploads/2020/04/IMG_1885-150x150.jpg
 0 2 0 15754 0 0
 /wp-content/plugins/wpforms-lite/lite/assets/js/admin/dashboard-widget.min.js
-0 30 0 27972 0 0
+0 44 0 37962 0 0
 /wp-content/plugins/quiz-maker/admin/images/integrations/paypal_logo.png
-0 6 9454272 67638 0 0
+0 6 0 67638 0 0
 /wp-includes/js/hoverintent-js.min.js
-0 56 0 14360 0 0
+0 104 0 20104 0 0
 /wp-includes/js/dist/block-editor.min.js
-0 16 0 1972096 0 0
+0 24 0 2817280 0 0
 /wp-content/themes/hestia/onboarding/hestia-energy-panels/screenshot.jpg
 0 4 0 183232 0 0
 /wp-content/plugins/quiz-maker/public/js/theme_elegant_light.js
-0 4 0 2972 0 0
-/wp-includes/js/api-request.min.js
-0 28 0 7536 0 0
+0 16 0 10402 0 0
 /wp-content/plugins/ultimate-member/assets/js/um-functions.js
-0 14 0 69816 0 0
+0 36 0 116360 0 0
+/wp-includes/js/api-request.min.js
+0 44 0 12246 0 0
 /wp-content/plugins/themeisle-companion/obfx_modules/gutenberg-blocks/assets/fontawesome/css/all.min.css
-0 67 0 790759 0 0
-/wp-includes/js/jquery/jquery.ui.touch-punch.js
-0 16 0 8190 0 0
+0 121 0 1129923 0 0
 /wp-content/plugins/easy-login-woocommerce/assets/css/xoo-el-fonts.css
 0 8 0 3976 0 0
+/wp-includes/js/jquery/jquery.ui.touch-punch.js
+0 40 0 12870 0 0
 /wp-content/plugins/quiz-maker/public/images/wrong-style-6.png
-0 4 0 6328 0 0
-/wp-content/plugins/quiz-maker/public/images/wrong-style-1.png
-0 8 0 8456 0 0
+0 10 0 15820 0 0
 /wp-admin/images/wordpress-logo.svg
-0 13 0 18252 0 0
+0 22 0 24336 0 0
+/wp-content/plugins/quiz-maker/public/images/wrong-style-1.png
+0 14 0 14798 0 0
 /wp-content/plugins/ultimate-member/assets/js/simplebar.min.js
-0 42 0 730374 0 0
+0 116 0 1168656 0 0
 /wp-includes/js/dist/url.min.js
-0 14 0 67272 0 0
+0 22 0 100908 0 0
 /wp-admin/js/user-profile.min.js
-0 13 0 27696 0 0
+0 23 0 36928 0 0
 /wp-content/plugins/loginpress/img/thumbnail/gallery-img-5.jpg
 0 4 0 17444 0 0
-/wp-content/plugins/themeisle-companion/obfx_modules/companion-legacy/inc/hestia/inc/img/clients2.png
-0 16 0 47872 0 0
 /wp-includes/js/autosave.min.js
-0 22 0 39120 0 0
+0 30 0 53790 0 0
+/wp-content/plugins/themeisle-companion/obfx_modules/companion-legacy/inc/hestia/inc/img/clients2.png
+0 20 0 59840 0 0
 /wp-content/plugins/quiz-maker/quiz/quiz-maker-block.js
-0 3 9458304 12362 0 0
+0 7 0 25028 0 0
 /wp-includes/js/media-grid.min.js
 0 2 0 10692 0 0
 /wp-admin/admin-post.php
 0 1 0 0 0 0
+/wp-content/plugins/wpforms-lite/lite/assets/js/admin/connect.min.js
+0 4 0 2464 0 0
 /wp-admin/js/media-upload.min.js
-0 15 0 5472 0 0
+0 21 0 7904 0 0
+/wp-content/plugins/wpforms-lite/assets/css/challenge.min.css
+0 4 0 11492 0 0
 /wp-admin/js/widgets/text-widgets.min.js
-0 9 0 18312 0 0
+0 14 0 27468 0 0
 /wp-content/plugins/quiz-maker/admin/css/loaders.css
-0 230 9407584 597770 0 0
-/wp-content/themes/twentytwenty/screenshot.png
-0 10 0 530660 0 0
+0 678 0 1762122 0 0
 /wp-content/plugins/loginpress/img/thumbnail/gallery-img-7.jpg
 0 4 0 32412 0 0
+/wp-content/themes/twentytwenty/screenshot.png
+0 12 0 636792 0 0
 /wp-content/plugins/quiz-maker/admin/images/themes/classic_dark.jpg
-0 4 0 67780 0 0
+0 10 0 169450 0 0
 /wp-includes/js/tinymce/plugins/textcolor/plugin.min.js
-0 22 0 37170 0 0
+0 34 0 53690 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/logs/archive.png
+0 2 0 139686 0 0
 /wp-admin/js/widgets.min.js
 0 1 0 4764 0 0
 /wp-content/plugins/quiz-maker/admin/js/quiz-maker-charts.js
-0 4 0 16308 0 0
+0 12 0 48924 0 0
 /wp-content/plugins/quiz-maker/admin/images/avatars/personal_avatar.png
 0 2 0 64194 0 0
 /wp-includes/js/wplink.min.js
-0 28 0 84744 0 0
+0 38 0 122408 0 0
 /wp-content/themes/hestia/vendor/codeinwp/ti-about-page//js/ti_notice_manager_scripts.js
 0 1 0 337 0 0
 /wp-content/themes/hestia/assets/font-awesome/webfonts/fa-regular-400.woff2
-0 30 0 380352 0 0
+0 34 0 434688 0 0
 /wp-content/themes/docent/css/main.css
 0 2 0 91206 0 0
-/wp-includes/js/tinymce/plugins/wplink/plugin.min.js
-0 22 0 70344 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/css/um-admin-forms.css
-0 12 0 26400 0 0
+0 22 0 39600 0 0
+/wp-includes/js/tinymce/plugins/wplink/plugin.min.js
+0 34 0 101608 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/providers/sendinblue.svg
+0 2 0 6942 0 0
 /wp-content/plugins/themeisle-companion/vendor/codeinwp/templates-directory/js/script.js
 0 2 0 5228 0 0
 /wp-content/plugins/quiz-maker/public/images/correct-style-7.png
-0 4 0 2676 0 0
-/wp-includes/js/utils.min.js
-0 18 0 13536 0 0
+0 10 0 6690 0 0
 /
-0 2083 0 24551893 212 131
+0 2901 0 39251352 307 203
+/wp-includes/js/utils.min.js
+0 28 0 20304 0 0
 /wp-content/plugins/ultimate-member/assets/js/um-functions.min.js
-0 40 0 185378 0 0
+0 118 0 363438 0 0
 /wp-content/plugins/ultimate-member/assets/css/um-crop.css
-0 38 0 45446 0 0
+0 87 0 65985 0 0
 /wp-includes/js/tinymce/plugins/wpautoresize/plugin.min.js
-0 22 0 17028 0 0
+0 34 0 24596 0 0
 /wp-content/themes/hestia/assets/img/slider2.jpg
 0 2 0 180620 0 0
 /wp-includes/js/jquery/ui/widget.min.js
-0 36 0 45520 0 0
+0 58 0 73970 0 0
 /wp-content/plugins/quiz-maker/admin/images/themes/classic_dark.PNG
 0 6 0 148416 0 0
 /wp-admin/js/svg-painter.js
-0 17 0 20250 0 0
+0 30 0 29250 0 0
 /wp-includes/js/dist/deprecated.min.js
-0 14 0 9672 0 0
+0 22 0 14508 0 0
 /wp-content/themes/hestia/inc/customizer/controls/custom-controls/dimensions/dimensions.css
-0 16 0 9984 0 0
+0 24 0 14976 0 0
 /wp-content/uploads/2020/04/IMG_1551-295x300.png
-0 22 0 2280192 0 0
+0 52 0 6227072 0 0
 /wp-admin/js/iris.min.js
-0 8 0 66563 0 0
+0 20 0 114108 0 0
 /wp-includes/js/mediaelement/renderers/vimeo.min.js
-0 18 0 39456 0 0
+0 24 0 54252 0 0
 /wp-content/plugins/ultimate-member/assets/js/um-tipsy.min.js
-0 42 0 71198 0 0
+0 114 0 109324 0 0
 /wp-content/plugins/ultimate-member/assets/js/um-conditional.min.js
-0 42 0 109990 0 0
+0 114 0 171622 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/providers/pepipost.png
+0 2 0 27616 0 0
 /wp-includes/js/tinymce/plugins/charmap/plugin.min.js
-0 22 0 59634 0 0
+0 34 0 86138 0 0
 /wp-content/plugins/loginpress/img/thumbnail/default-5.png
 0 4 0 47736 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/providers/mailgun.svg
+0 2 0 12690 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/email/icon-check.png
+0 8 0 18328 0 0
 /wp-content/plugins/optinmonster/assets/css/settings.css
 0 2 0 9786 0 0
 /wp-content/plugins/ultimate-member/assets/js/pickadate/legacy.js
-0 50 0 76950 0 0
+0 132 0 111174 0 0
 /wp-includes/js/dist/block-library.min.js
-0 14 0 1785936 0 0
+0 22 0 2678904 0 0
 /wp-content/themes/hestia/assets/css/customizer-style.min.css
-0 16 0 144352 0 0
+0 24 0 216528 0 0
 /wp-content/themes/hestia/gutenberg/blocks/big-title/template.json
 0 2 0 40140 0 0
 /wp-content/plugins/quiz-maker/public/js/quiz-maker-public-ajax.js
-0 50 0 627370 0 0
+0 350 0 4437770 0 0
 /wp-includes/js/codemirror/csslint.js
-0 18 0 1654832 0 0
+0 28 0 2482248 0 0
 /wp-admin/images/spinner-2x.gif
-0 9 0 67824 0 0
+0 13 0 97968 0 0
 /wp-content/plugins/ultimate-member/assets/css/um-modal.css
-0 36 0 44356 0 0
+0 86 0 72570 0 0
 /wp-content/plugins/quiz-maker/admin/images/features/pro3-compressor.png
-0 2 9461280 106092 0 0
+0 2 0 106092 0 0
 /wp-content/plugins/mycred-learndash/inc/assets/js/learndash-mycred-pts-handler.js
 0 18 0 9196 0 0
 /wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js
-0 2 9470464 674 0 0
+0 2 0 674 0 0
 /wp-content/plugins/quiz-maker/admin/images/integrations/activecampaign_logo.png
-0 8 9454624 64872 0 0
+0 16 0 129744 0 0
 /wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue/js/frontend.js
 0 30 0 30858 0 0
 /wp-admin/js/widgets/media-video-widget.min.js
-0 9 0 9856 0 0
-/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js
-0 2 9470608 6032 0 0
+0 14 0 14784 0 0
 /wp-content/themes/hestia/assets/img/free_vs_pro_banner.png
 0 4 0 8532 0 0
+/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js
+0 6 0 34692 0 0
 /wp-content/plugins/quiz-maker/admin/js/partials/quiz-maker-admin-quick-start.js
-0 4 9464304 4976 0 0
+0 16 0 17416 0 0
+/wp-content/plugins/wp-mail-smtp/assets/css/smtp-admin.min.css
+0 2 0 12544 0 0
 /wp-content/plugins/quiz-maker/public/css/rating.min.css
-0 8 0 81016 0 0
+0 54 0 279818 0 0
 /wp-content/plugins/quiz-maker/public/images/correct-style-4.png
-0 8 0 11784 0 0
+0 14 0 20622 0 0
 /wp-content/themes/hestia/assets/bootstrap/js/bootstrap.min.js
-0 94 0 484278 0 0
+0 167 0 741081 0 0
+/phpmyadmin/scripts/setup.php
+0 1 0 732 0 0
+/wp-content/plugins/wp-meta-and-date-remover/include/codemirror/autorefresh.js
+0 2 0 1208 0 0
 /wp-content/plugins/quiz-maker/admin/images/loaders/gear.svg
-0 4 0 10052 0 0
+0 12 0 30156 0 0
 /wp-content/plugins/loginpress/loginpressfonts/loginpress.ttf
 0 6 0 11760 0 0
 /wp-includes/js/dist/keyboard-shortcuts.min.js
-0 14 0 35016 0 0
+0 22 0 52524 0 0
 /wp-includes/js/codemirror/esprima.js
-0 18 0 1144448 0 0
+0 28 0 1716672 0 0
 /wp-includes/js/dist/compose.min.js
-0 14 0 93672 0 0
+0 22 0 140508 0 0
 /wp-content/plugins/ultimate-member/assets/js/pickadate/picker.time.js
-0 48 0 499272 0 0
+0 134 0 896514 0 0
+/wp-admin/options-general.php
+0 7 0 142255 0 0
 /wp-content/plugins/wpforms-lite/assets/js/wpforms.js
-0 82 0 1287286 0 0
+0 131 0 1786637 0 0
 /wp-content/plugins/ultimate-member/assets/css/um-raty.css
-0 32 0 14406 0 0
-/wp-includes/js/admin-bar.min.js
-0 56 0 32780 0 0
+0 80 0 23580 0 0
 /wp-content/plugins/ultimate-member/assets/js/pickadate/picker.date.js
-0 50 0 841654 0 0
+0 130 0 1185286 0 0
+/wp-includes/js/admin-bar.min.js
+0 104 0 45892 0 0
 /wp-content/plugins/quiz-maker/admin/css/dataTables.bootstrap4.min.css
-0 8 7885630523722130021 9160 0 0
+0 22 0 25190 0 0
 /wp-includes/js/jquery/jquery.color.min.js
-0 34 0 74520 0 0
+0 50 0 124200 0 0
 /wp-content/plugins/quiz-maker/public/images/correct-style-3.png
-0 8 0 5088 0 0
+0 14 0 8904 0 0
+/wp-content/plugins/wp-meta-and-date-remover/include/codemirror/codemirror.css
+0 2 0 5584 0 0
 /wp-content/plugins/quiz-maker/admin/images/live-preview/416x416.jpg
-0 4 0 95168 0 0
+0 10 0 237920 0 0
+/wp-content/plugins/simple-custom-css/includes/js/editor.js
+0 2 0 602 0 0
 /wp-includes/js/dist/shortcode.min.js
-0 14 0 21384 0 0
+0 22 0 32076 0 0
 /wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css
 0 2 0 32604 0 0
 /wp-content/plugins/quiz-maker/public/images/correct-style-2.png
-0 8 0 3784 0 0
+0 14 0 6622 0 0
 /wp-includes/js/tinymce/plugins/wpview/plugin.min.js
-0 22 0 23796 0 0
+0 34 0 34372 0 0
 /wp-content/themes/twentytwenty/assets/js/customize-preview.js
 0 2 0 3844 0 0
-/wp-content/themes/hestia/assets/js/script.min.js
-0 98 0 488646 0 0
 /wp-admin/js/password-strength-meter.min.js
-0 13 0 5736 0 0
+0 23 0 7648 0 0
+/wp-content/themes/hestia/assets/js/script.min.js
+0 169 0 661905 0 0
 /wp-includes/js/dist/escape-html.min.js
-0 14 0 9156 0 0
+0 22 0 13734 0 0
+/wp-content/plugins/wp-mail-smtp/assets/libs/jquery-confirm.min.css
+0 2 0 9086 0 0
 /wp-content/themes/docent/lib/customizer/assets/select2/css/select2.min.css
 0 2 0 6754 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/control/personal.png
+0 2 0 3072 0 0
 /wp-includes/js/jquery/ui/tooltip.min.js
-0 24 0 36752 0 0
+0 46 0 50534 0 0
 /wp-content/uploads/2020/04/vegetables-1085063_1920.jpg
-0 72 0 15568644 0 0
+0 119 0 23352966 0 0
+/wp-content/plugins/wpforms-lite/assets/js/components/admin/challenge/challenge-admin.min.js
+0 4 0 2068 0 0
 /wp-content/themes/hestia/assets/img/placeholder.jpg
-0 10 0 10160 0 0
+0 16 0 16256 0 0
 /wp-includes/css/media-views.min.css
 0 2 0 25790 0 0
 /wp-content/plugins/quiz-maker/public/images/correct-style-6.png
-0 4 0 6004 0 0
-/wp-content/plugins/quiz-maker/admin/js/jhxlsx.js
-0 4 9463008 7764 0 0
+0 10 0 15010 0 0
 /wp-content/themes/hestia/assets/js/admin/customizer.js
-0 18 0 203872 0 0
+0 24 0 280324 0 0
+/wp-content/plugins/quiz-maker/admin/js/jhxlsx.js
+0 16 0 27174 0 0
 /wp-content/themes/hestia/assets/img/about-content.png
-0 42 0 1459926 0 0
+0 46 0 1631682 0 0
 /wp-content/plugins/quiz-maker/admin/images/live-preview/416x416-3.jpg
-0 4 0 48500 0 0
+0 10 0 121250 0 0
 /wp-content/plugins/optinmonster/assets/css/images/michaelstelzner.png
 0 2 0 73464 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/js/um-admin-form.js
-0 14 0 6204 0 0
+0 36 0 9306 0 0
+/wp-content/plugins/wp-mail-smtp/assets/images/logs/single.png
+0 2 0 180420 0 0
 /wp-includes/js/plupload/moxie.min.js
-0 22 0 673794 0 0
+0 36 0 973258 0 0
 /wp-content/themes/hestia/inc/infinite-scroll/script.js
-0 2 0 1958 0 0
+0 4 0 3916 0 0
 /wp-content/themes/hestia/onboarding/hestia-woocommerce/screenshot.jpg
 0 4 0 264960 0 0
 /wp-content/plugins/quiz-maker/admin/images/themes/modern_dark.PNG
@@ -1338,193 +1472,204 @@
 /wp-content/plugins/quiz-maker/admin/images/remove-hover.png
 0 2 0 5294 0 0
 /wp-content/plugins/quiz-maker/public/images/wrong-style-5.png
-0 8 0 7744 0 0
+0 14 0 13552 0 0
 /wp-content/plugins/loginpress/js/customizer-previewer.js
 0 4 0 7984 0 0
 /wp-includes/js/jquery/ui/autocomplete.min.js
-0 34 0 58464 0 0
+0 56 0 84448 0 0
 /wp-content/themes/hestia/assets/css/customizer-preview.min.css
-0 16 0 33632 0 0
+0 22 0 46244 0 0
 /wp-content/plugins/loginpress/img/thumbnail/default-14.png
 0 4 0 85660 0 0
 /wp-content/plugins/ultimate-member/assets/css/um-tipsy.css
-0 32 0 15660 0 0
+0 77 0 23490 0 0
 /wp-content/plugins/ultimate-member/assets/css/pickadate/default.time.css
-0 34 0 33132 0 0
+0 79 0 45432 0 0
 /robots.txt
-0 52 0 3484 0 0
+0 80 0 5360 0 0
+/wp-admin/theme-editor.php
+0 9 0 439354 0 0
 /wp-admin/js/nav-menu.min.js
-0 9 0 66104 0 0
+0 14 0 99156 0 0
 /wp-content/plugins/ultimate-member/assets/css/um-account.css
-0 36 0 49322 0 0
+0 86 0 74742 0 0
 /wp-admin/profile.php
-0 13 0 269605 0 0
+0 17 0 347216 0 0
 /wp-content/plugins/quiz-maker/admin/css/animate.css
-0 8 9406800 43672 0 0
+0 34 0 185606 0 0
 /wp-includes/js/dist/rich-text.min.js
-0 14 0 251304 0 0
+0 22 0 376956 0 0
 /wp-content/plugins/ultimate-member/includes/admin/assets/css/um-admin-dashboard.css
-0 12 0 15624 0 0
-/wp-content/plugins/wpforms-lite/assets/js/chart.min.js
-0 30 0 1785476 0 0
+0 22 0 23436 0 0
 /wp-content/plugins/ultimate-member/assets/js/pickadate/picker.js
-0 46 0 553032 0 0
-/wp-content/plugins/quiz-maker/public/js/quiz-maker-public.js
-0 54 0 1037320 0 0
+0 128 0 931526 0 0
+/wp-content/plugins/wpforms-lite/assets/js/chart.min.js
+0 44 0 2550680 0 0
 /wp-content/plugins/quiz-maker/admin/images/icons/icon-128x128.png
-0 8 0 194600 0 0
+0 34 0 827050 0 0
+/wp-content/plugins/quiz-maker/public/js/quiz-maker-public.js
+0 356 0 6793720 0 0
 /wp-content/plugins/jetpack/images/security.svg
 0 2 0 11330 0 0
 /wp-content/plugins/quiz-maker/admin/js/quiz-maker-admin-ajax.js
-0 10 0 65130 0 0
+0 22 0 146940 0 0
 /wp-content/plugins/quiz-cat/includes/hide-title.css
-0 8 0 216 0 0
+0 10 0 270 0 0
 /wp-content/themes/docent/js/bootstrap.min.js
 0 4 0 93396 0 0
-/Quiz.css
-0 20 0 14210 0 0
 /wp-content/themes/hestia/gutenberg/blocks/big-title/screenshot.png
 0 4 0 1397352 0 0
+/Quiz.css
+0 20 0 14210 0 0
 /wp-admin/async-upload.php
 0 8 0 5178 0 0
 /wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/lib/fontawesome-iconpicker/dist/js/fontawesome-iconpicker.js
 0 2 0 41578 0 0
 /wp-includes/js/codemirror/fakejshint.js
-0 18 0 8288 0 0
+0 28 0 12432 0 0
+/wp-includes/js/plupload/wp-plupload.min.js
+0 42 0 58944 0 0
 /wp-content/themes/hestia/assets/img/2.jpg
 0 20 0 559818 0 0
-/wp-includes/js/plupload/wp-plupload.min.js
-0 28 0 39296 0 0
 /wp-admin/user-new.php
 0 9 0 175615 0 0
 /wp-content/uploads/2020/04/vegetables-1085063_1920-300x198.jpg
-0 16 0 251136 0 0
+0 26 0 376704 0 0
 /wp-content/plugins/loginpress/img/thumbnail/default-8.png
 0 4 0 43996 0 0
 /wp-content/plugins/jetpack/images/jetpack-speed.svg
 0 2 0 23026 0 0
-/wp-includes/js/customize-selective-refresh.min.js
-0 18 0 69616 0 0
 /wp-content/plugins/easy-login-woocommerce/admin/assets/js/xoo-el-admin-js.js
 0 2 0 3052 0 0
+/wp-includes/js/customize-selective-refresh.min.js
+0 24 0 95722 0 0
 /wp-includes/images/uploader-icons-2x.png
 0 4 0 14168 0 0
 /wp-content/themes/hestia/assets/img/1.jpg
 0 14 0 365050 0 0
 /wp-includes/js/mce-view.min.js
-0 28 0 77148 0 0
+0 40 0 111436 0 0
 /wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/assets/js/xoo-aff-js.js
 0 8 0 9960 0 0
 /wp-cron.php
-0 1376 0 0 0 0
+0 1848 0 0 0 0
 /wp-content/themes/hestia/inc/customizer/controls/custom-controls/common-functionalities/responsive-switchers.js
-0 18 0 14368 0 0
-/wp-content/themes/docent/css/bootstrap.min.css
-0 2 0 70276 0 0
+0 28 0 21552 0 0
 /wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue/css/frontend.css
 0 26 0 25710 0 0
+/wp-content/themes/docent/css/bootstrap.min.css
+0 2 0 70276 0 0
 /wp-content/plugins/easy-login-woocommerce/xoo-form-fields-fw/admin/assets/js/xoo-aff-admin-js.js
 0 2 0 16072 0 0
 /wp-includes/js/tinymce/plugins/wpgallery/plugin.min.js
-0 22 0 13536 0 0
+0 34 0 19552 0 0
 /wp-content/plugins/quiz-maker/public/images/correct-style-1.png
-0 8 0 7784 0 0
+0 14 0 13622 0 0
 /wp-includes/js/jquery/ui/menu.min.js
-0 34 0 61524 0 0
-/wp-content/plugins/quiz-maker/public/css/animate.css
-0 8 9457840 43672 0 0
+0 44 0 88868 0 0
 /wp-includes/js/tinymce/plugins/wpemoji/plugin.min.js
-0 22 0 13608 0 0
-/wp-includes/js/tinymce/plugins/tabfocus/plugin.min.js
-0 22 0 14292 0 0
+0 34 0 19656 0 0
+/wp-content/plugins/quiz-maker/public/css/animate.css
+0 56 0 257738 0 0
+/wp-content/plugins/wpforms-lite/assets/css/admin.min.css
+0 4 0 90152 0 0
 /wp-content/themes/hestia/assets/img/about.jpg
-0 18 0 1362312 0 0
+0 28 0 2119152 0 0
+/wp-includes/js/tinymce/plugins/tabfocus/plugin.min.js
+0 34 0 20644 0 0
 /wp-content/plugins/quiz-cat/includes/wysi/wysi.min.js
-0 18 0 9450 0 0
+0 22 0 10800 0 0
 /wp-includes/js/dist/primitives.min.js
-0 14 0 19908 0 0
+0 22 0 29862 0 0
+/wp-content/uploads/2020/04/cropped-LogoMakr_20KQqI-4-180x180.png
+0 4 0 113348 0 0
 /wp-includes/js/dist/dom.min.js
-0 14 0 41988 0 0
+0 22 0 62982 0 0
 /wp-includes/js/dist/warning.min.js
-0 14 0 14364 0 0
+0 22 0 21546 0 0
 /wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css
-0 20 0 64580 0 0
+0 34 0 103328 0 0
 /wp-content/plugins/jetpack/_inc/fonts/jetpack/jetpack.woff
 0 28 0 29568 0 0
 /wp-includes/js/dist/server-side-render.min.js
-0 14 0 36864 0 0
+0 22 0 55296 0 0
 /wp-content/plugins/ultimate-member/assets/css/um-misc.css
-0 34 0 28082 0 0
+0 79 0 39962 0 0
 /wp-content/plugins/quiz-maker/public/images/wrong-style-9.png
-0 4 0 4064 0 0
+0 10 0 10160 0 0
 /wp-content/themes/hestia/assets/img/7.jpg
-0 32 0 1939448 0 0
+0 36 0 2216512 0 0
 /wp-content/plugins/quiz-maker/quiz/quiz-maker-block.css
-0 3 0 903 0 0
+0 6 0 1806 0 0
 /wp-content/themes/twentysixteen/screenshot.png
-0 6 0 2781330 0 0
+0 8 0 3708440 0 0
 /wp-admin/admin-ajax.php
-0 4673 0 1204582 0 0
+0 5733 0 1759611 0 0
 /wp-includes/js/media-views.min.js
-0 28 0 576368 0 0
+0 42 0 864552 0 0
 /wp-admin/js/image-edit.min.js
-0 13 0 33184 0 0
+0 19 0 49776 0 0
 /wp-content/themes/twentynineteen/style-editor-customizer.css
 0 2 0 294 0 0
 /wp-content/plugins/themeisle-companion/vendor/codeinwp/gutenberg-blocks/assets/glide/glide.core.min.css
-0 10 0 3470 0 0
+0 16 0 5552 0 0
 /wp-content/plugins/mojo-marketplace-wp-plugin/images/cs-mojo-bg.jpg
 0 6 0 184686 0 0
-/wp-content/plugins/quiz-maker/ays_quiz_shortcode.js
-0 8 9455632 2364 0 0
 /wp-admin/js/code-editor.min.js
-0 11 0 12177 0 0
+0 18 0 17589 0 0
+/wp-content/plugins/quiz-maker/ays_quiz_shortcode.js
+0 20 0 5516 0 0
 /wp-content/plugins/loginpress/img/thumbnail/default-7.png
 0 4 0 107356 0 0
+/wp-content/plugins/wp-meta-and-date-remover/include/wpmdr.css
+0 2 0 218 0 0
 /wp-content/plugins/themeisle-companion/vendor/codeinwp/gutenberg-blocks/build/blocks.js
-0 12 0 1567392 0 0
+0 20 0 2351088 0 0
 /wp-content/plugins/google-analytics-for-wordpress/lite/assets/vue/css/widget.css
 0 6 0 165912 0 0
 /wp-admin/customize.php
-0 38 0 7576085 0 0
+0 58 0 11710167 0 0
 /wp-includes/js/jquery/ui/effect.min.js
-0 6 9458752 34020 0 0
+0 52 0 113400 0 0
 /wp-content/plugins/ultimate-member/assets/js/um-fileupload.min.js
-0 44 0 149796 0 0
+0 118 0 255708 0 0
 /wp-includes/js/dist/data.min.js
-0 14 0 137148 0 0
+0 22 0 205722 0 0
 /wp-content/plugins/quiz-maker/public/css/theme_rect_light.css
-0 128 0 173056 0 0
+0 598 0 808496 0 0
 /wp-content/themes/docent/js/main.js
 0 4 0 7360 0 0
 /wp-content/plugins/themeisle-companion/obfx_modules/mystock-import/js/admin.js
-0 14 0 39242 0 0
+0 22 0 56060 0 0
 /wp-content/plugins/quiz-maker/admin/images/chart_screen.png
 0 2 0 123366 0 0
 /wp-includes/js/dist/core-data.min.js
-0 14 0 178248 0 0
+0 22 0 267372 0 0
 /wp-content/themes/hestia/assets/js/admin/customizer-notices-handler.js
-0 18 0 5296 0 0
+0 28 0 7944 0 0
 /wp-content/plugins/themeisle-companion/obfx_modules/companion-legacy/inc/hestia/inc/img/clients1.png
-0 16 0 44432 0 0
+0 20 0 55540 0 0
 /wp-includes/js/tinymce/themes/modern/theme.min.js
-0 22 0 1000440 0 0
+0 36 0 1445080 0 0
 /wp-content/plugins/quiz-maker/admin/images/remove-normal.png
-0 2 0 5624 0 0
+0 4 0 11248 0 0
 /wp-includes/css/dist/block-library/style.min.css
-0 88 0 1026030 0 0
+0 156 0 1622658 0 0
 /wp-includes/js/jquery/ui/position.min.js
-0 34 0 46926 0 0
-/wp-content/themes/hestia/inc/customizer/controls/ui/helper-plugin-install/helper-script.js
-0 20 0 20088 0 0
+0 50 0 72996 0 0
 /wp-content/plugins/quiz-cat/includes/editor/editor.min.js
-0 18 0 47516 0 0
+0 22 0 54304 0 0
+/wp-content/themes/hestia/inc/customizer/controls/ui/helper-plugin-install/helper-script.js
+0 30 0 29016 0 0
 /wp-content/uploads/2020/04/IMG_4025-150x150.jpg
 0 2 0 16958 0 0
 /wp-content/plugins/easy-login-woocommerce/admin/assets/css/xoo-el-admin-style.css
 0 2 0 2436 0 0
 # End Of Table - urls
 # -sites- (monthly)
+no.rdns.ukservers.com
+0 4 2 25086 1 1587591078
+/
 static.243.74.69.159.clients.your-server.de
 0 1 1 3065 1 1586688699
 /
@@ -1546,26 +1691,41 @@ c-73-84-233-134.hsd1.fl.comcast.net
 ec2-3-135-191-210.us-east-2.compute.amazonaws.com
 0 144 144 3401712 1 1587130079
 /
+ns336156.ip-5-196-76.eu
+0 4 2 25084 1 1587669580
+/
 36.99.136.135
 0 3 3 2110 1 1585994403
+/
+crawl-66-249-65-123.googlebot.com
+0 26 26 255768 1 1587698424
+/
+ec2-34-222-18-84.us-west-2.compute.amazonaws.com
+0 2 2 25086 1 1587819934
 /
 ec2-54-188-68-148.us-west-2.compute.amazonaws.com
 0 2 2 23126 1 1586882612
 /
+ik1-315-17669.vs.sakura.ne.jp
+0 1 0 226 0 0
+-
 157.230.55.177
 0 1 0 462 1 1585762815
 -
+154.160.2.197
+0 139 139 2984105 1 1587703173
+/
 69.164.111.198
-0 56 55 1830657 1 1586765163
+0 68 67 2388999 5 1587883815
 /
 40.86.101.33
-0 31 31 294808 19 1587371498
+0 41 41 419940 24 1587571358
 /
 msnbot-40-77-188-231.search.msn.com
 0 16 16 251676 0 0
 -
 c-73-133-100-103.hsd1.md.comcast.net
-0 5248 4463 75568450 20 1587411734
+0 14145 10048 165531099 26 1587928379
 /
 ec2-34-216-96-41.us-west-2.compute.amazonaws.com
 0 1 1 37850 1 1586884875
@@ -1574,7 +1734,7 @@ ec2-34-216-96-41.us-west-2.compute.amazonaws.com
 0 1 0 226 0 0
 -
 crawl-66-249-79-60.googlebot.com
-0 20 20 125288 1 1587334720
+0 24 24 185896 2 1587957630
 /
 crawl-66-249-73-223.googlebot.com
 0 10 8 64586 3 1587274105
@@ -1594,8 +1754,14 @@ msnbot-40-77-190-182.search.msn.com
 142.93.157.53
 0 3 2 0 1 1586739774
 /
+77-88-5-86.spider.yandex.com
+0 14 14 114796 3 1587682977
+/
 ec2-3-224-60-96.compute-1.amazonaws.com
 0 7 7 74228 4 1587326334
+/
+ec2-107-21-1-8.compute-1.amazonaws.com
+0 4 4 28492 1 1587513852
 /
 200.sub-174-192-200.myvzw.com
 0 85 70 1291192 1 1586955480
@@ -1603,23 +1769,35 @@ ec2-3-224-60-96.compute-1.amazonaws.com
 ec2-54-188-72-170.us-west-2.compute.amazonaws.com
 0 1 1 37850 1 1586884871
 /
+static.25.89.217.95.clients.your-server.de
+0 2 0 45798 0 0
+-
+ec2-54-208-102-37.compute-1.amazonaws.com
+0 4 4 28492 1 1587513854
+/
 192.0.102.140
-0 2 2 3630 0 0
+0 4 4 7260 0 0
 -
 placeholder.sitelock.com
-0 257 187 6302821 15 1587359067
+0 480 361 12776549 26 1587963713
 /
 38.18.53.122
 0 1 1 308 1 1585835248
 /
+185.166.131.146.srvlist.ukfast.net
+0 1 0 226 0 0
+-
 46.sub-174-192-212.myvzw.com
 0 1951 1451 35944897 6 1586710603
 /
 vmi297651.contaboserver.net
-0 229 229 2036392 14 1587395193
+0 246 246 2128324 15 1587477925
 /
 60.6.237.35.bc.googleusercontent.com
 0 4 2 616 2 1586099565
+/
+web30.e-hawk.net
+0 2 2 25084 1 1587638270
 /
 msnbot-207-46-13-87.search.msn.com
 0 64 64 483680 0 0
@@ -1637,8 +1815,8 @@ msnbot-157-55-39-75.search.msn.com
 0 1 1 308 1 1586042849
 /
 c-73-201-206-66.hsd1.md.comcast.net
-0 2444 2357 46433585 9 1587413829
-/wp-admin/
+0 3989 3701 76135665 20 1587925491
+/
 crawl-66-249-75-165.googlebot.com
 0 1 0 462 0 0
 -
@@ -1654,6 +1832,9 @@ msnbot-40-77-189-171.search.msn.com
 ns571186.ip-192-99-36.net
 0 2 0 360 0 0
 -
+45.43.18.40
+0 7 0 938 1 1587686175
+/
 209.17.96.130.rdns.cloudsystemnetworks.com
 0 2 2 91830 1 1587090778
 /
@@ -1661,10 +1842,16 @@ ns571186.ip-192-99-36.net
 0 1 1 606 1 1585753542
 /
 c-73-172-209-167.hsd1.md.comcast.net
-0 5650 5132 48388350 14 1587396166
+0 7636 6447 70003828 20 1587928609
 /
 crawl-66-249-75-167.googlebot.com
 0 1 1 308 1 1585833430
+/
+crawl-66-249-72-29.googlebot.com
+0 7 7 46197 0 0
+-
+154.160.1.17
+0 141 141 2943777 2 1587666477
 /
 107.179.19.68
 0 1 0 226 0 0
@@ -1672,6 +1859,12 @@ crawl-66-249-75-167.googlebot.com
 ec2-34-222-2-89.us-west-2.compute.amazonaws.com
 0 2 2 75700 1 1586884575
 /
+62-210-79-219.rev.poneytelecom.eu
+0 2 0 452 0 0
+-
+crawl-66-249-65-125.googlebot.com
+0 4 4 1742 0 0
+-
 m11681.contaboserver.net
 0 1 1 308 1 1586124387
 /
@@ -1681,6 +1874,9 @@ ip112.ip-51-83-207.eu
 ec2-18-237-3-242.us-west-2.compute.amazonaws.com
 0 2 2 18052 1 1586804979
 /
+rate-limited-proxy-72-14-199-191.google.com
+0 2 0 452 0 0
+-
 180.163.220.4
 0 1 1 1281 0 0
 -
@@ -1691,16 +1887,34 @@ msnbot-40-77-189-106.search.msn.com
 0 2 2 75700 2 1586847783
 /
 192-254-227-32.unifiedlayer.com
-0 1454 1410 141150 6 1586981435
+0 1944 1886 141279 10 1587993687
 /
+spider-5.lipperhey.com
+0 33 26 1392053 1 1587489563
+/
+209.17.96.234.rdns.cloudsystemnetworks.com
+0 2 2 88404 1 1588035949
+/
+crawl-66-249-72-31.googlebot.com
+0 2 2 134 0 0
+-
 72.13.62.25
 0 12 10 63784 1 1587097867
 /
+ec2-34-203-163-15.compute-1.amazonaws.com
+0 2 2 25086 1 1587801505
+/
+195.234.109.192
+0 2 2 3630 0 0
+-
 194.127.179.82
 0 86 16 1153697 1 1586959993
 /
 40.86.100.91
-0 18 18 145146 12 1587335509
+0 28 28 269048 18 1588033051
+/
+ip1.ip-54-38-235.eu
+0 4 2 24638 1 1588004838
 /
 hn.kd.ny.adsl
 0 3 3 2110 1 1586105149
@@ -1714,12 +1928,15 @@ ec2-54-81-122-237.compute-1.amazonaws.com
 104.223.29.143.static.quadranet.com
 0 1 1 308 1 1585870994
 /
-23.108.44.117
-0 2 2 616 1 1586049405
-/
 80.165.196.104.bc.googleusercontent.com
 0 4 2 616 2 1585764624
 /
+23.108.44.117
+0 2 2 616 1 1586049405
+/
+157.172.76.34.bc.googleusercontent.com
+0 1 0 226 0 0
+-
 crawl-66-249-64-221.googlebot.com
 0 10 10 47512 1 1587180014
 /
@@ -1729,6 +1946,9 @@ crawl-66-249-79-63.googlebot.com
 ec2-34-223-91-22.us-west-2.compute.amazonaws.com
 0 2 2 24700 2 1587394992
 /
+zmap.sorengard.com
+0 5 2 360 1 1587659084
+/
 200.198.196.104.bc.googleusercontent.com
 0 4 4 49280 1 1587099511
 /
@@ -1736,13 +1956,25 @@ msnbot-40-77-190-245.search.msn.com
 0 16 16 445176 0 0
 -
 crawl-66-249-73-221.googlebot.com
-0 102 102 659022 5 1587292039
+0 104 104 684040 6 1587513450
 /
 unn-84-17-51-53.cdn77.com
 0 2 2 18590 1 1586693935
 /
+crawl-66-249-72-27.googlebot.com
+0 66 66 541310 2 1587461626
+/
+61.76.173.247
+0 22 8 1023772 1 1587437445
+-
+46.101.9.216
+0 8 8 91326 2 1587617994
+/
 c-73-191-77-143.hsd1.md.comcast.net
-0 922 613 10863149 9 1587408671
+0 1866 1286 21303304 15 1587984121
+/wp-admin/
+kube-12.dataprovider.com
+0 156 154 3612743 1 1587533748
 /
 msnbot-40-77-189-56.search.msn.com
 0 6 6 203174 0 0
@@ -1762,12 +1994,18 @@ msnbot-40-77-188-77.search.msn.com
 171.13.14.84
 0 2 2 829 1 1585833252
 /
+static-208-80-194-42.as13448.com
+0 2 2 88404 1 1587998805
+/
 msnbot-157-55-39-158.search.msn.com
 0 60 60 391428 0 0
 -
 servicetools.cloud
 0 2 2 18052 1 1586764762
 /
+ip-132-148-141-147.ip.secureserver.net
+0 1 0 226 0 0
+-
 250.145.231.35.bc.googleusercontent.com
 0 4 4 49280 1 1587259893
 /
@@ -1786,6 +2024,9 @@ msnbot-40-77-167-10.search.msn.com
 192.0.102.35
 0 1 1 230 0 0
 -
+154.160.22.42
+0 136 136 2935965 1 1587807718
+/
 msnbot-40-77-188-18.search.msn.com
 0 6 6 168084 0 0
 -
@@ -1795,9 +2036,15 @@ harrisburg.dreamhost.com
 120.29.114.184
 0 59 53 2205188 1 1586696932
 -
+rate-limited-proxy-72-14-199-185.google.com
+0 1 0 226 0 0
+-
 pool-71-244-163-124.bltmmd.fios.verizon.net
-0 2140 2095 46872641 12 1586965174
-/
+0 3863 3748 78573711 18 1587928730
+/wp-admin/
+lux-lu1-10g.gcore.com
+0 1 0 0 1 1587918769
+-
 136.206.196.104.bc.googleusercontent.com
 0 4 4 49280 1 1587144102
 /
@@ -1811,7 +2058,10 @@ server.nycrollinggates.com
 0 6 5 46036 2 1586945987
 /
 crawl-66-249-73-222.googlebot.com
-0 18 18 56372 2 1587287685
+0 20 20 56506 2 1587287685
+/
+103.98.157.136
+0 7 3 1119241 1 1587599541
 /
 147.165.243.35.bc.googleusercontent.com
 0 4 4 36104 1 1586726413
@@ -1819,11 +2069,20 @@ crawl-66-249-73-222.googlebot.com
 187.69.196.35.bc.googleusercontent.com
 0 2 1 308 1 1585993813
 /
+lputeaux-658-1-45-22.w92-154.abo.wanadoo.fr
+0 1 0 83 0 0
+-
 ec2-3-133-142-50.us-east-2.compute.amazonaws.com
 0 4 4 10414 1 1585767822
 /
+145.ip-198-245-55.net
+0 1 0 226 0 0
+-
 msnbot-40-77-188-185.search.msn.com
 0 8 8 175566 0 0
+-
+ns3364981.ip-37-187-74.eu
+0 2 0 360 0 0
 -
 37.1.211.75
 0 2 2 91830 1 1587336190
@@ -1833,6 +2092,9 @@ msnbot-40-77-188-185.search.msn.com
 /
 cache.google.com
 0 151 149 2357926 1 1587411735
+/
+72.11.157.71.static.quadranet.com
+0 2 2 93826 1 1587911277
 /
 crawl-66-249-75-187.googlebot.com
 0 1 1 308 1 1586092630
@@ -1861,208 +2123,216 @@ static-208-80-194-41.as13448.com
 crawl-66-249-75-189.googlebot.com
 0 1 1 308 1 1585895704
 /
-msnbot-40-77-188-136.search.msn.com
-0 16 16 363140 0 0
--
 dhcp.tripleplay.in
 0 4 4 10414 1 1585753554
 /
+msnbot-40-77-188-136.search.msn.com
+0 16 16 363140 0 0
+-
 106.212.145.230
 0 22 22 3453788 0 0
 -
 crawl-66-249-79-57.googlebot.com
-0 142 140 1114840 2 1587334564
+0 202 196 1599470 4 1587993687
 /
 crawl-66-249-64-219.googlebot.com
 0 44 44 368382 0 0
 -
 # End Of Table - sites (monthly)
 # -sites- (daily)
-40.86.101.33
-0 4 4 49280 2 1587371498
-/
-c-73-133-100-103.hsd1.md.comcast.net
-0 2058 1491 21052199 3 1587411734
-/
-crawl-66-249-72-61.googlebot.com
-0 2 0 16614 1 1587420376
-/
-placeholder.sitelock.com
-0 34 27 797673 1 1587359067
-/
-vmi297651.contaboserver.net
-0 24 24 225206 1 1587395193
-/
-c-73-201-206-66.hsd1.md.comcast.net
-0 1780 1706 25922328 5 1587413829
-/wp-admin/
-c-73-172-209-167.hsd1.md.comcast.net
-0 1039 1037 14859481 2 1587396166
-/
 192-254-227-32.unifiedlayer.com
-0 212 212 0 0 0
+0 2 2 0 0 0
 -
-ec2-34-223-91-22.us-west-2.compute.amazonaws.com
-0 2 2 24700 2 1587394992
+209.17.96.234.rdns.cloudsystemnetworks.com
+0 2 2 88404 1 1588035949
 /
-c-73-191-77-143.hsd1.md.comcast.net
-0 2 2 29474 1 1587408671
-/
-cache.google.com
-0 130 128 1137468 1 1587411735
-/
-crawl-66-249-72-63.googlebot.com
-0 2 2 134 0 0
--
-static-208-80-194-41.as13448.com
-0 2 2 92204 1 1587383036
+40.86.100.91
+0 2 2 24472 1 1588033051
 /
 # End Of Table - sites (daily)
 # -referrers- 
+http://healthylifestylequiz.net/index.php/2020/04/25/general-health-hard/
+0 14
 http://healthylifestylequiz.net/index.php/2020/04/15/fitness2-2/
 0 78
 http://healthylifestylequiz.net/wp-content/plugins/quiz-maker/public/css/theme_rect_light.css
 0 8
+http://healthylifestylequiz.net/wp-content/plugins/wpforms-lite/assets/css/font-awesome.min.css
+0 4
 http://healthylifestylequiz.net/index.php/register/
-0 2
+0 25
 http://healthylifestylequiz.net/wp-admin/load-styles.php
-0 37
+0 47
 http://healthylifestylequiz.net/wp-admin/themes.php
-0 210
+0 241
+http://healthylifestylequiz.net/wp-content/plugins/wp-meta-and-date-remover/include/materialize/materialize.min.css
+0 2
 http://healthylifestylequiz.net/index.php/2020/04/15/fitness2/
-0 1
+0 3
 http://healthylifestylequiz.net/wp-admin/theme-install.php
 0 22
 http://healthylifestylequiz.net/wp-includes/js/tinymce/skins/lightgray/skin.min.css
-0 12
+0 20
 http://www.google.com/url
-0 166
+0 319
 http://healthylifestylequiz.net/wp-cron.php
-0 1376
+0 1848
 http://healthylifestylequiz.net/index.php/2020/04/15/medicine1/
 0 16
 http://healthylifestylequiz.net/index.php/blog/
 0 64
 http://healthylifestylequiz.net/index.php/2020/04/15/fitness1-2/
 0 2
+http://healthylifestylequiz.net/index.php/2020/04/25/general-health-normal/
+0 6
 http://healthylifestylequiz.net/wp-admin/user-edit.php
-0 38
+0 42
 http://healthylifestylequiz.net/wp-admin/plugin-editor.php
 0 9
+http://healthylifestylequiz.net/index.php/2020/04/26/medicine-normal/
+0 20
 http://healthylifestylequiz.net/wp-admin/plugin-install.php
-0 103
+0 187
 http://healthylifestylequiz.net/index.php/user/aakbar/
-0 8
+0 35
 http://healthylifestylequiz.net/index.php/wp-json/wp/v2/types/post
-0 1
+0 2
 http://healthylifestylequiz.net/xmlrpc.php
-0 1
+0 2
 http://healthylifestylequiz.net/wp-admin/term.php
 0 62
 http://healthylifestylequiz.net/index.php/user/eddygld/
-0 4
+0 10
 http://healthylifestylequiz.net/wp-admin/update.php
 0 5
 http://healthylifestylequiz.net/wp-content/plugins/quiz-maker/admin/css/quiz-maker-admin.css
-0 4
-http://healthylifestylequiz.net/wp-admin/admin-ajax.php
-0 32
+0 6
 http://healthylifestylequiz.net/index.php/sample-page/
 0 2
+http://healthylifestylequiz.net/wp-admin/admin-ajax.php
+0 39
 http://baidu.com/
 0 2
 http://healthylifestylequiz.net/
-0 4312
+0 6948
 http://healthylifestylequiz.net/wp-admin/post-new.php
-0 655
+0 1016
 http://healthylifestylequiz.net/wp-content/plugins/ultimate-member/assets/css/um-fonticons-ii.css
-0 14
+0 30
 http://healthylifestylequiz.net/wp-admin/plugins.php
-0 152
+0 341
 http://healthylifestylequiz.net/wp-admin/user-new.php
 0 76
+http://healthylifestylequiz.net/wp-content/plugins/wp-mail-smtp/assets/css/smtp-admin.min.css
+0 2
 http://healthylifestylequiz.net/wp-content/themes/twentytwenty/style.css
 0 2
 http://healthylifestylequiz.net/wp-content/themes/hestia/assets/font-awesome/css/all.min.css
-0 138
+0 204
+http://healthylifestylequiz.net/wp-admin/options-writing.php
+0 1
+http://healthylifestylequiz.net/index.php/2020/04/26/medicine-easy/
+0 61
 http://healthylifestylequiz.net/wp-content/plugins/themeisle-companion/obfx_modules/gutenberg-blocks/assets/fontawesome/css/all.min.css
 0 4
 https://www.google.com/
 0 5
 - (Direct Request)
-0 1470
+0 1988
 http://healthylifestylequiz.net/index.php/2020/04/15/fitness1/
-0 2
+0 12
 http://healthylifestylequiz.net/index.php/statistics-downloading/
 0 6
 http://healthylifestylequiz.net/wp-admin/css/login.min.css
+0 19
+http://healthylifestylequiz.net/index.php/user/sepin/
 0 10
 http://healthylifestylequiz.net/index.php/category/uncategorized/
 0 42
+http://healthylifestylequiz.net/index.php/2020/04/25/general-health-easy/
+0 45
+http://healthylifestylequiz.net/wp-content/uploads/2020/04/cropped-LogoMakr_20KQqI-4-32x32.png
+0 4
 http://healthylifestylequiz.net/wp-content/themes/docent/css/fontawesome.min.css
 0 4
 http://healthylifestylequiz.net/wp-admin/post.php
-0 4494
+0 5467
+http://healthylifestylequiz.net/index.php/2020/04/26/nutrition-hard/
+0 6
 http://healthylifestylequiz.net/index.php/account/privacy/
-0 4
+0 76
 http://healthylifestylequiz.net/wp-content/uploads/2020/04/cropped-LogoMakr_20KQqI-1.png
 0 2
 http://healthylifestylequiz.net/wp-admin/edit.php
-0 1584
+0 2651
 http://healthylifestylequiz.net
-0 2
+0 4
 http://healthylifestylequiz.net/wp-admin/edit-tags.php
 0 150
 http://healthylifestylequiz.net/wp-admin/
-0 1215
+0 1663
 http://healthylifestylequiz.net/wp-admin/index.php
-0 183
+0 260
 http://healthylifestylequiz.net/index.php/login/
-0 124
+0 152
 http://healthylifestylequiz.net/index.php/quiz/
-0 307
+0 3274
 http://healthylifestylequiz.net/index.php/2020/04/20/quizmaker/
-0 153
+0 175
 http://healthylifestylequiz.net/index.php/2020/04/
 0 4
 http://healthylifestylequiz.net/wp-admin/upgrade.php
 0 1
 http://net.all-url.info/net/healthylifestylequiz.net/
-0 23
+0 25
 http://healthylifestylequiz.net/wp-content/themes/hestia/assets/css/customizer-preview.min.css
-0 16
+0 18
 http://healthylifestylequiz.net/wp-admin/customize.php
-0 1945
+0 2602
 http://healthylifestylequiz.net/wp-content/plugins/ultimate-member/assets/css/um-fonticons-fa.css
-0 12
+0 36
 http://healthylifestylequiz.net/wp-admin/upload.php
 0 6
 http://healthylifestylequiz.net/index.php/healthy-lifestyle-quiz/
 0 2
+http://healthylifestylequiz.net/index.php/2020/04/25/nutrition-normal/
+0 19
 http://healthylifestylequiz.net/index.php/2020/04/15/quiz/
-0 14
+0 18
 http://healthylifestylequiz.net/wp-includes/js/imgareaselect/imgareaselect.css
 0 12
 http://healthylifestylequiz.net/index.php/category/general-health/
-0 41
+0 61
 http://healthylifestylequiz.net/wp-content/plugins/easy-login-woocommerce/assets/css/xoo-el-fonts.css
 0 8
 http://healthylifestylequiz.net/index.php/2020/04/15/quiz3/
 0 18
+http://healthylifestylequiz.net/wp-admin/options-reading.php
+0 2
+http://mail.google.com/
+0 3
+http://healthylifestylequiz.net/wp-admin/theme-editor.php
+0 20
 http://healthylifestylequiz.net/wp-admin/revision.php
 0 9
 http://healthylifestylequiz.net/wp-admin/users.php
-0 248
+0 273
 http://healthylifestylequiz.net/index.php/2020/04/15/medicine2/
 0 78
+http://healthylifestylequiz.net/index.php/user/testuser/
+0 2
 http://healthylifestylequiz.net/wp-admin/profile.php
-0 23
+0 111
 http://healthylifestylequiz.net/wp-login.php
-0 303
+0 472
 http://healthylifestylequiz.net/index.php/quiz/page/2/
-0 12
+0 14
+http://healthylifestylequiz.net/index.php/2020/04/26/medicine-hard/
+0 17
 http://healthylifestylequiz.net/index.php/account/
-0 12
+0 30
+http://healthylifestylequiz.net/index.php/user/ericc15/
+0 10
 http://healthylifestylequiz.net/index.php/home/
 0 4
 http://www.healthylifestylequiz.net/
@@ -2070,11 +2340,13 @@ http://www.healthylifestylequiz.net/
 http://healthylifestylequiz.net/wp-content/plugins/jetpack/css/jetpack-icons.min.css
 0 28
 http://healthylifestylequiz.net/wp-admin/admin.php
-0 1974
+0 7125
 http://healthylifestylequiz.net/wp-admin/update-core.php
-0 6
+0 15
+http://healthylifestylequiz.net/wp-admin/options-general.php
+0 29
 http://healthylifestylequiz.net/index.php/20//.*
-0 36
+0 46
 http://healthylifestylequiz.net/wp-admin/widgets.php
 0 7
 http://healthylifestylequiz.net/wp-content/plugins/optinmonster/assets/css/settings.css
@@ -2093,28 +2365,40 @@ HTTPClient/1.0 (2.8.3, ruby 2.1.10 (2016-04-01))
 0 3
 Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0
 0 4
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.57 Safari/537.36
+0 4
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
 0 69
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/605.1.15 (KHTML, like Gecko)
+0 6
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
-0 21
+0 23
 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
 0 130
+Mozilla/5.0 (compatible; DuckDuckGo-Favicons-Bot/1.0; +http://duckduckgo.com)
+0 8
 Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
-0 4
+0 6
 Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile S
-0 170
+0 224
+Microsoft Office/16.0 (Microsoft Outlook 16.0.12624; Pro), Mozilla/4.0 (compatible; ms-office; MSOffice 16)
+0 12
 Mozilla/5.0 (Android 9; Mobile; rv:68.0) Gecko/68.0 Firefox/68.0
 0 152
-Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0
-0 6
-Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0)
-0 166
-Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50728)
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
 0 4
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:50.0) Gecko/20100101 Firefox/50.0
+0 11
+Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/6.0)
+0 319
+Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50728)
+0 6
 Jetpack by WordPress.com
 0 1
 Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)
 0 2
+Mozilla/5.0 (Windows NT 10.0; WOW64; rv:42.0) Gecko/20100101 Firefox/42.0
+0 1
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534+ (KHTML, like Gecko) BingPreview/1.0b
 0 132
 WordPress/5.4; https://healthylifestylequiz.net
@@ -2124,33 +2408,45 @@ Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like 
 Mozilla/5.0 (Linux; U; Android 8.1.0; zh-CN; EML-AL00 Build/HUAWEIEML-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.
 0 6
 SiteLockSpider [en] (WinNT; I ;Nav)
-0 91
+0 161
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
-0 9586
+0 9600
 WordPress/5.0.3; http://healthylifestylequiz.net
 0 2
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 0 1
+Mozilla/5.0 (compatible; Dataprovider.com)
+0 187
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.149 Chrome/80.0.3987.149 Saf
 0 175
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.87 Chrome/80.0.3987.87 Safar
 0 3
 WordPress/5.4; http://healthylifestylequiz.net
-0 1408
+0 1888
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+0 2228
 Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3765.0 Mob
 0 3
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0
+0 22
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 Safari/537.36
+0 7
 Dalvik/2.1.0 (Linux; U; Android 10; SM-N960U Build/QP1A.190711.020)
 0 2
 Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
-0 46
+0 72
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
-0 1376
+0 1858
 Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)
 0 6
-Go-http-client/1.1
-0 9
-Photon/1.0
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like iGecko) Chrome/56.0.2925.37 Safari/537.36
 0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.2
+0 3
+Go-http-client/1.1
+0 11
+Photon/1.0
+0 6
 Mozilla/5.0 (Linux; Android 10; SM-N960U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36
 0 4
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
@@ -2160,17 +2456,19 @@ Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko)
 Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50
 0 21
 Mozilla/5.0 (iPhone; CPU iPhone OS 13_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1 Mobile/15E148 
-0 59
+0 61
 Googlebot-Image/1.0
-0 4
+0 5
 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:28.0) Gecko/20100101 Firefox/28.0
 0 57
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
-0 2976
+0 11588
+Apache-HttpClient/4.5.5 (Java/1.8.0_201)
+0 4
 Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.4882
 0 2
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:54.0) Gecko/20100101 Firefox/54.0
-0 2
+0 4
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
 0 684
 Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0
@@ -2178,35 +2476,45 @@ Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:24.0) Gecko/20100101 Firefox/24.0
 Mozilla/5.0 (Windows NT 6.1; WOW64; rv:38.0) Gecko/20100101 Firefox/38.0
 0 2
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
-0 1780
+0 2385
 WordPress/5.4; https://healthylifestylequiz.net; EPC/v1.1/transition_post_status
-0 36
+0 46
 Mozilla/5.0 (compatible; hrankbot/1.0; +https://www.hrank.com/bot)
-0 49
+0 69
 Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+0 4
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_1) AppleWebKit/601.2.4 (KHTML, like Gecko) Version/9.0.1 Safari/601.2.4 facebook
+0 16
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_8_3) AppleWebKit/537.31 (KHTML, like Gecko) Chrome/26.0.1410.65 Safari/537.31
 0 2
 Mozilla/5.0 (Windows NT 6.1; rv:36.0) Gecko/20100101 Firefox/36.0
 0 6
+Mozilla/5.0 (Linux; Android 5.1.1; SM-G925F Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.94 Mobile S
+0 2
 Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/80.0.39
-0 132
+0 222
 Mozilla/5.0 (Android 9; Mobile; rv:68.6.0) Gecko/68.6.0 Firefox/68.6.0
 0 3
 msnbot/2.0b (+http://search.msn.com/msnbot.htm)
 0 272
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+0 2
 Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36
 0 2
 Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:55.0) Gecko/20100101 Firefox/55.0
 0 1
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/80.0.3987.163 Chrome/80.0.3987.163 Saf
-0 51
+0 68
 Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 wp-iphone/14.
 0 86
 Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile S
-0 14
+0 16
 Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2227.0 Safari/537.36
 0 2
+Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+0 14
 Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E14
-0 154
+0 385
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36
 0 144
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
@@ -2216,13 +2524,17 @@ Mozilla/5.0 (compatible; ips-agent)
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:64.0) Gecko/20100101 Firefox/64.0
 0 2
 Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 14
+Mozilla/5.0 (Windows NT 6.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.116 Safari/537.36
 0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+0 2703
 Mozilla/5.0 (compatible; DomainSONOCrawler/0.1; +http://domainsono.com)
 0 1
 WordPress/14.5.0.2 CFNetwork/1121.2.2 Darwin/19.3.0
 0 2
 Mozilla/5.0 (Windows NT 6.3; Trident/7.0; rv:11.0) like Gecko
-0 56
+0 68
 Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2224.3 Safari/537.36
 0 1
 Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4) Gecko/20030624
@@ -2230,15 +2542,21 @@ Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4) Gecko/20030624
 WordPress/5.4; https://healthylifestylequiz.net; EPC/v1.1/option_update_theme_mods_hestia
 0 4
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
-0 1813
+0 1985
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+0 6
 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.100 Safari/537.36
 0 2
+MobileSafari/604.1 CFNetwork/1125.2 Darwin/19.4.0
+0 6
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
 0 4
 Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
 0 2
 Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:74.0) Gecko/20100101 Firefox/74.0
 0 5
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E14
+0 416
 Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
 0 3
 Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 Romash2189
